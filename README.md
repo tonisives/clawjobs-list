@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-16
+**Last updated:** 2026-04-17
 
-**Total companies:** 1327
+**Total companies:** 1333
 
 ## Protocols
 
@@ -34,6 +34,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Aera Technology | lever | [https://jobs.lever.co/aeratechnology](https://jobs.lever.co/aeratechnology) |
 | Affinity | greenhouse | [https://boards.greenhouse.io/affinity](https://boards.greenhouse.io/affinity) |
 | Afresh | greenhouse | [https://boards.greenhouse.io/afresh](https://boards.greenhouse.io/afresh) |
+| AfterQuery | ashby | [https://jobs.ashbyhq.com/afterquery](https://jobs.ashbyhq.com/afterquery) |
 | AfterShip | greenhouse | [https://boards.greenhouse.io/aftership](https://boards.greenhouse.io/aftership) |
 | Agave | ashby | [https://jobs.ashbyhq.com/agave](https://jobs.ashbyhq.com/agave) |
 | AgentMail | ashby | [https://jobs.ashbyhq.com/agentmail](https://jobs.ashbyhq.com/agentmail) |
@@ -278,6 +279,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Clover Health | greenhouse | [https://boards.greenhouse.io/cloverhealth](https://boards.greenhouse.io/cloverhealth) |
 | Cluely | ashby | [https://jobs.ashbyhq.com/cluely](https://jobs.ashbyhq.com/cluely) |
 | [Clutch Markets](https://clutch.market) | bamboohr | [https://clutch.bamboohr.com/careers](https://clutch.bamboohr.com/careers) |
+| Coast | greenhouse | [https://boards.greenhouse.io/coast](https://boards.greenhouse.io/coast) |
 | Cobo | greenhouse | [https://boards.greenhouse.io/cobo](https://boards.greenhouse.io/cobo) |
 | CockroachDB | greenhouse | [https://boards.greenhouse.io/cockroachlabs](https://boards.greenhouse.io/cockroachlabs) |
 | Codigo | getro | [getro/codigo](getro/codigo) |
@@ -467,6 +469,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Figure Markets Exchange](https://www.figuremarkets.com/crypto-exchange/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Fin](https://fin.kujira.app) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
 | Find Satoshi Lab | greenhouse | [https://boards.greenhouse.io/find](https://boards.greenhouse.io/find) |
+| FINNY AI | ashby | [https://jobs.ashbyhq.com/finny](https://jobs.ashbyhq.com/finny) |
 | Fireblocks | greenhouse | [https://boards.greenhouse.io/fireblocks](https://boards.greenhouse.io/fireblocks) |
 | Firecrawl | ashby | [https://jobs.ashbyhq.com/firecrawl](https://jobs.ashbyhq.com/firecrawl) |
 | [Firelight](https://firelight.finance/) | bamboohr | [https://firelight.bamboohr.com/careers](https://firelight.bamboohr.com/careers) |
@@ -639,6 +642,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
 | Justworks | greenhouse | [https://boards.greenhouse.io/justworks](https://boards.greenhouse.io/justworks) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
+| Kaizen | ashby | [https://jobs.ashbyhq.com/kaizenlabs](https://jobs.ashbyhq.com/kaizenlabs) |
 | Kaizen Labs | ashby | [https://jobs.ashbyhq.com/kaizenlabs](https://jobs.ashbyhq.com/kaizenlabs) |
 | Kalepa | greenhouse | [https://boards.greenhouse.io/kalepa](https://boards.greenhouse.io/kalepa) |
 | Kalshi | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
@@ -831,6 +835,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Neon Labs | bamboohr | [https://neonlabs.bamboohr.com/careers](https://neonlabs.bamboohr.com/careers) |
 | Neptune AI | greenhouse | [https://boards.greenhouse.io/neptuneai](https://boards.greenhouse.io/neptuneai) |
 | [Neptune Finance](https://nept.finance/) | bamboohr | [https://neptune.bamboohr.com/careers](https://neptune.bamboohr.com/careers) |
+| NetBox Labs | ashby | [https://jobs.ashbyhq.com/netboxlabs](https://jobs.ashbyhq.com/netboxlabs) |
 | Nethermind | ashby | [https://jobs.ashbyhq.com/nethermind](https://jobs.ashbyhq.com/nethermind) |
 | Netlify | greenhouse | [https://boards.greenhouse.io/netlify](https://boards.greenhouse.io/netlify) |
 | Netskope | greenhouse | [https://boards.greenhouse.io/netskope](https://boards.greenhouse.io/netskope) |
@@ -926,6 +931,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Partisia Blockchain | ashby | [https://jobs.ashbyhq.com/partisiablockchain](https://jobs.ashbyhq.com/partisiablockchain) |
 | Paxos | ashby | [https://jobs.ashbyhq.com/paxos](https://jobs.ashbyhq.com/paxos) |
 | [Paxos Gold](https://paxos.com/paxgold/) | ashby | [https://jobs.ashbyhq.com/paxos](https://jobs.ashbyhq.com/paxos) |
+| Paxos Labs | ashby | [https://jobs.ashbyhq.com/paxoslabs](https://jobs.ashbyhq.com/paxoslabs) |
 | [Pay Protocol](https://payprotocol.network) | bamboohr | [https://pay.bamboohr.com/careers](https://pay.bamboohr.com/careers) |
 | [PayPal](https://www.paypal.com/careers) | workday | [https://paypal.myworkdayjobs.com](https://paypal.myworkdayjobs.com) |
 | [Pencil Finance](https://www.pencilfinance.io) | bamboohr | [https://pencil.bamboohr.com/careers](https://pencil.bamboohr.com/careers) |
