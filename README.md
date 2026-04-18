@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-17
+**Last updated:** 2026-04-18
 
-**Total companies:** 1333
+**Total companies:** 1339
 
 ## Protocols
 
@@ -58,8 +58,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Alloy | greenhouse | [https://boards.greenhouse.io/alloy](https://boards.greenhouse.io/alloy) |
 | Almanax | getro | [getro/almanax](getro/almanax) |
 | Alpaca Finance | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
-| Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
+| Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Leveraged Yield Farming | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
@@ -131,6 +131,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Aurora Innovation | greenhouse | [https://boards.greenhouse.io/aurorainnovation](https://boards.greenhouse.io/aurorainnovation) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
+| Automox | greenhouse | [https://boards.greenhouse.io/automox](https://boards.greenhouse.io/automox) |
 | [Autopilot](https://theautopilot.xyz/app) | recruitee | [https://autopilot.recruitee.com](https://autopilot.recruitee.com) |
 | Ava Labs | ashby | [https://jobs.ashbyhq.com/ava-labs](https://jobs.ashbyhq.com/ava-labs) |
 | [Avalanche Core Bridge](https://core.app/bridge/) | greenhouse | [https://boards.greenhouse.io/avalabs](https://boards.greenhouse.io/avalabs) |
@@ -496,6 +497,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Forte | recruitee | [https://forte.recruitee.com](https://forte.recruitee.com) |
 | Foundry | greenhouse | [https://boards.greenhouse.io/foundry](https://boards.greenhouse.io/foundry) |
 | Freed | ashby | [https://jobs.ashbyhq.com/freed](https://jobs.ashbyhq.com/freed) |
+| Freeform | greenhouse | [https://boards.greenhouse.io/freeformfuturecorp](https://boards.greenhouse.io/freeformfuturecorp) |
 | FriendliAI | ashby | [https://jobs.ashbyhq.com/friendliai](https://jobs.ashbyhq.com/friendliai) |
 | Friends With Benefits | bamboohr | [https://friends.bamboohr.com/careers](https://friends.bamboohr.com/careers) |
 | [Fuel Bridge](https://app.fuel.network/bridge) | lever | [https://jobs.lever.co/fuellabs](https://jobs.lever.co/fuellabs) |
@@ -652,6 +654,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
 | [Kelp](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | greenhouse | [https://boards.greenhouse.io/kerneldao](https://boards.greenhouse.io/kerneldao) |
 | [Kernel](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | ashby | [https://jobs.ashbyhq.com/kernel](https://jobs.ashbyhq.com/kernel) |
+| Ketryx | greenhouse | [https://boards.greenhouse.io/ketryx](https://boards.greenhouse.io/ketryx) |
 | Keyrock | ashby | [https://jobs.ashbyhq.com/keyrock](https://jobs.ashbyhq.com/keyrock) |
 | Kiln | bamboohr | [https://kiln.bamboohr.com/careers](https://kiln.bamboohr.com/careers) |
 | [Kinetic](https://kinetic.market) | bamboohr | [https://kinetic.bamboohr.com/careers](https://kinetic.bamboohr.com/careers) |
@@ -1094,6 +1097,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Sky Mavis | ashby | [https://jobs.ashbyhq.com/skymavis](https://jobs.ashbyhq.com/skymavis) |
 | SkyTrade | getro | [getro/skytrade-2](getro/skytrade-2) |
 | Slingshot | recruitee | [https://slingshot.recruitee.com](https://slingshot.recruitee.com) |
+| Slingshot AI | ashby | [https://jobs.ashbyhq.com/slingshotai](https://jobs.ashbyhq.com/slingshotai) |
 | Smart Valor | recruitee | [https://smartteam.recruitee.com](https://smartteam.recruitee.com) |
 | Smartly | greenhouse | [https://boards.greenhouse.io/smartlyio](https://boards.greenhouse.io/smartlyio) |
 | Smith + Crown | bamboohr | [https://smith.bamboohr.com/careers](https://smith.bamboohr.com/careers) |
@@ -1205,6 +1209,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Telli | ashby | [https://jobs.ashbyhq.com/telli](https://jobs.ashbyhq.com/telli) |
 | [Telos Consilium](https://telosc.com/) | bamboohr | [https://telos.bamboohr.com/careers](https://telos.bamboohr.com/careers) |
 | Tempo | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
+| Tempo | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
 | [Tempo Stablecoin Dex](https://tempo.xyz/) | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
 | Temporal | getro | [getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075](getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075) |
 | Tennr | ashby | [https://jobs.ashbyhq.com/tennr](https://jobs.ashbyhq.com/tennr) |
@@ -1246,6 +1251,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Turing Labs | greenhouse | [https://boards.greenhouse.io/turing](https://boards.greenhouse.io/turing) |
 | Turnkey | ashby | [https://jobs.ashbyhq.com/turnkey](https://jobs.ashbyhq.com/turnkey) |
 | Twilio | greenhouse | [https://boards.greenhouse.io/twilio](https://boards.greenhouse.io/twilio) |
+| Twin Health | greenhouse | [https://boards.greenhouse.io/twinhealth](https://boards.greenhouse.io/twinhealth) |
 | Twinstake | bamboohr | [https://twinstake.bamboohr.com/careers](https://twinstake.bamboohr.com/careers) |
 | Udio | greenhouse | [https://boards.greenhouse.io/udio](https://boards.greenhouse.io/udio) |
 | Ultimate | greenhouse | [https://boards.greenhouse.io/ultimate](https://boards.greenhouse.io/ultimate) |
