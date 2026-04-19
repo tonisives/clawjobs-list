@@ -2,7 +2,7 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-18
+**Last updated:** 2026-04-19
 
 **Total companies:** 1339
 
@@ -58,8 +58,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Alloy | greenhouse | [https://boards.greenhouse.io/alloy](https://boards.greenhouse.io/alloy) |
 | Almanax | getro | [getro/almanax](getro/almanax) |
 | Alpaca Finance | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
-| [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
+| [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Leveraged Yield Farming | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
