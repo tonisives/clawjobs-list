@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-20
+**Last updated:** 2026-04-21
 
-**Total companies:** 1350
+**Total companies:** 1351
 
 ## Protocols
 
@@ -706,6 +706,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Level Perps](https://app.level.finance) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | LI.FI | getro | [getro/li-fi-2](getro/li-fi-2) |
 | [Lido](https://lido.fi/) | ashby | [https://jobs.ashbyhq.com/Lido.fi](https://jobs.ashbyhq.com/Lido.fi) |
+| lightcone.trade | getro | [getro/lightcone-trade](getro/lightcone-trade) |
 | Lightmatter | greenhouse | [https://boards.greenhouse.io/lightmatter](https://boards.greenhouse.io/lightmatter) |
 | Lightning Labs | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
 | [Lightning Network](https://lightning.network/) | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
