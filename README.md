@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-22
+**Last updated:** 2026-04-23
 
-**Total companies:** 1373
+**Total companies:** 1375
 
 ## Protocols
 
@@ -610,8 +610,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | IDEO CoLab Ventures | greenhouse | [https://boards.greenhouse.io/ideo](https://boards.greenhouse.io/ideo) |
 | Ideogram | ashby | [https://jobs.ashbyhq.com/ideogram](https://jobs.ashbyhq.com/ideogram) |
 | IDEX | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
-| [IDEX Classic](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
-| [IDEX V1](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
+| IDEX Classic | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
+| IDEX V1 | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
 | IEX | greenhouse | [https://boards.greenhouse.io/iex](https://boards.greenhouse.io/iex) |
 | [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
 | Imagen Technologies | greenhouse | [https://boards.greenhouse.io/imagentechnologies](https://boards.greenhouse.io/imagentechnologies) |
@@ -832,6 +832,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Moonshot | getro | [getro/moonshot-2-949ce1a2-6d38-42d0-a878-d09bef92c13a](getro/moonshot-2-949ce1a2-6d38-42d0-a878-d09bef92c13a) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
+| [Morpho Blue](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Mosaic Aggregator | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
@@ -1040,6 +1041,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Recall.ai | ashby | [https://jobs.ashbyhq.com/recall](https://jobs.ashbyhq.com/recall) |
 | RedotPay | bamboohr | [https://redotpay.bamboohr.com/careers](https://redotpay.bamboohr.com/careers) |
 | Reef Finance | recruitee | [https://reef.recruitee.com](https://reef.recruitee.com) |
+| Refi Hub | getro | [getro/refi-hub](getro/refi-hub) |
 | Reflect | getro | [getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325](getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325) |
 | Reflex | greenhouse | [https://boards.greenhouse.io/reflex](https://boards.greenhouse.io/reflex) |
 | Relativity Space | greenhouse | [https://boards.greenhouse.io/relativity](https://boards.greenhouse.io/relativity) |
