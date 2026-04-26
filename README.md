@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-25
+**Last updated:** 2026-04-26
 
-**Total companies:** 1419
+**Total companies:** 1424
 
 ## Protocols
 
@@ -252,6 +252,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Carbon Defi](https://app.carbondefi.xyz/) | greenhouse | [https://boards.greenhouse.io/carbon](https://boards.greenhouse.io/carbon) |
 | Caribou | ashby | [https://jobs.ashbyhq.com/caribou](https://jobs.ashbyhq.com/caribou) |
 | Casa | ashby | [https://jobs.ashbyhq.com/casa](https://jobs.ashbyhq.com/casa) |
+| Casca | ashby | [https://jobs.ashbyhq.com/casca](https://jobs.ashbyhq.com/casca) |
 | Castle Island Ventures | ashby | [https://jobs.ashbyhq.com/castle](https://jobs.ashbyhq.com/castle) |
 | [Cat in a Box](https://catinabox.finance) | ashby | [https://jobs.ashbyhq.com/catio](https://jobs.ashbyhq.com/catio) |
 | Catalog | ashby | [https://jobs.ashbyhq.com/catalog](https://jobs.ashbyhq.com/catalog) |
@@ -319,6 +320,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Color Health | ashby | [https://jobs.ashbyhq.com/color-health](https://jobs.ashbyhq.com/color-health) |
 | Colossal Biosciences | greenhouse | [https://boards.greenhouse.io/colossalbiosciences](https://boards.greenhouse.io/colossalbiosciences) |
 | Comet ML | greenhouse | [https://boards.greenhouse.io/comet](https://boards.greenhouse.io/comet) |
+| ComfyUI | ashby | [https://jobs.ashbyhq.com/comfy-org](https://jobs.ashbyhq.com/comfy-org) |
 | Community Gaming | greenhouse | [https://boards.greenhouse.io/community](https://boards.greenhouse.io/community) |
 | [Commure](https://commure.com) | ashby | [https://jobs.ashbyhq.com/Commure](https://jobs.ashbyhq.com/Commure) |
 | Compound | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
@@ -665,6 +667,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | InterSystems | greenhouse | [https://boards.greenhouse.io/intersystems](https://boards.greenhouse.io/intersystems) |
 | Invert | ashby | [https://jobs.ashbyhq.com/invert](https://jobs.ashbyhq.com/invert) |
 | [Invisible Technologies](https://invisible.co) | greenhouse | [https://boards.greenhouse.io/invisibletech](https://boards.greenhouse.io/invisibletech) |
+| Iterative Health | greenhouse | [https://boards.greenhouse.io/iterativehealth](https://boards.greenhouse.io/iterativehealth) |
 | January | ashby | [https://jobs.ashbyhq.com/january](https://jobs.ashbyhq.com/january) |
 | [Jasper Vault](https://www.jaspervault.io/) | greenhouse | [https://boards.greenhouse.io/jasper](https://boards.greenhouse.io/jasper) |
 | JetSwap | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
@@ -907,6 +910,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Notabene | ashby | [https://jobs.ashbyhq.com/notabene](https://jobs.ashbyhq.com/notabene) |
 | Notion | ashby | [https://jobs.ashbyhq.com/notion](https://jobs.ashbyhq.com/notion) |
 | Nous Research | getro | [getro/nous-research](getro/nous-research) |
+| Nova Intelligence | ashby | [https://jobs.ashbyhq.com/novaintelligence](https://jobs.ashbyhq.com/novaintelligence) |
 | Novig | ashby | [https://jobs.ashbyhq.com/novig](https://jobs.ashbyhq.com/novig) |
 | [Nucleus](https://www.nucleusearn.io) | bamboohr | [https://nucleus.bamboohr.com/careers](https://nucleus.bamboohr.com/careers) |
 | Numeral | ashby | [https://jobs.ashbyhq.com/numeral](https://jobs.ashbyhq.com/numeral) |
@@ -942,6 +946,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | OpenSea | ashby | [https://jobs.ashbyhq.com/opensea](https://jobs.ashbyhq.com/opensea) |
 | OpenSea DEX Aggregator | ashby | [https://jobs.ashbyhq.com/opensea](https://jobs.ashbyhq.com/opensea) |
 | OpenZeppelin | greenhouse | [https://boards.greenhouse.io/openzeppelin](https://boards.greenhouse.io/openzeppelin) |
+| Ophelia | greenhouse | [https://boards.greenhouse.io/ophelia](https://boards.greenhouse.io/ophelia) |
 | OPSWAT | greenhouse | [https://boards.greenhouse.io/opswat](https://boards.greenhouse.io/opswat) |
 | [Optimism Bridge](https://app.optimism.io/bridge/deposit) | ashby | [https://jobs.ashbyhq.com/oplabs](https://jobs.ashbyhq.com/oplabs) |
 | Orb | ashby | [https://jobs.ashbyhq.com/orb](https://jobs.ashbyhq.com/orb) |
