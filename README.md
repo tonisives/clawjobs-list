@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-27
+**Last updated:** 2026-04-28
 
-**Total companies:** 1447
+**Total companies:** 1454
 
 ## Protocols
 
@@ -115,6 +115,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Arrakis V2](https://arrakis.finance/) | workable | [https://apply.workable.com/arrakis-finance](https://apply.workable.com/arrakis-finance) |
 | Artemis | getro | [getro/artemis-2](getro/artemis-2) |
 | [Artemis Finance](https://artemisfinance.io/) | ashby | [https://jobs.ashbyhq.com/artemis](https://jobs.ashbyhq.com/artemis) |
+| Artera | lever | [https://jobs.lever.co/artera](https://jobs.lever.co/artera) |
 | Artie | ashby | [https://jobs.ashbyhq.com/artie](https://jobs.ashbyhq.com/artie) |
 | Artisan | ashby | [https://jobs.ashbyhq.com/artisan](https://jobs.ashbyhq.com/artisan) |
 | Ashby | ashby | [https://jobs.ashbyhq.com/ashby](https://jobs.ashbyhq.com/ashby) |
@@ -149,6 +150,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Avant avBTC](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Avant avETH](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| Aven | ashby | [https://jobs.ashbyhq.com/aven](https://jobs.ashbyhq.com/aven) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
 | Axiom | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
 | Aztec | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
@@ -250,6 +252,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Canva | custom | [custom/canva](custom/canva) |
 | Capitalize | greenhouse | [https://boards.greenhouse.io/capitalize](https://boards.greenhouse.io/capitalize) |
 | Capsule | ashby | [https://jobs.ashbyhq.com/capsule](https://jobs.ashbyhq.com/capsule) |
+| Capsule AI | ashby | [https://jobs.ashbyhq.com/capsule](https://jobs.ashbyhq.com/capsule) |
 | [Capyfi](https://capyfi.com/) | ashby | [https://jobs.ashbyhq.com/capy](https://jobs.ashbyhq.com/capy) |
 | [Carbon Defi](https://app.carbondefi.xyz/) | greenhouse | [https://boards.greenhouse.io/carbon](https://boards.greenhouse.io/carbon) |
 | Caribou | ashby | [https://jobs.ashbyhq.com/caribou](https://jobs.ashbyhq.com/caribou) |
@@ -729,6 +732,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | KPMG | recruitee | [https://kpmg.recruitee.com](https://kpmg.recruitee.com) |
 | [Kraken](https://www.kraken.com/) | ashby | [https://jobs.ashbyhq.com/kraken.com](https://jobs.ashbyhq.com/kraken.com) |
 | [Kraken Bitcoin](https://www.kraken.com/kbtc) | ashby | [https://jobs.ashbyhq.com/kraken.com](https://jobs.ashbyhq.com/kraken.com) |
+| Krea | ashby | [https://jobs.ashbyhq.com/krea](https://jobs.ashbyhq.com/krea) |
 | Kronos Research | greenhouse | [https://boards.greenhouse.io/kronosresearch](https://boards.greenhouse.io/kronosresearch) |
 | KUBRA | lever | [https://jobs.lever.co/kubra](https://jobs.lever.co/kubra) |
 | [KuCoin](https://www.kucoin.com) | custom | [custom/kucoin](custom/kucoin) |
@@ -781,6 +785,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | LogRocket | lever | [https://jobs.lever.co/logrocket](https://jobs.lever.co/logrocket) |
 | [Loop](https://www.loopfi.xyz/) | greenhouse | [https://boards.greenhouse.io/loop](https://boards.greenhouse.io/loop) |
 | [Loopscale](https://loop.sl/i/AVxMN) | getro | [getro/loopscale](getro/loopscale) |
+| LootSwap | ashby | [https://jobs.ashbyhq.com/loot-labs](https://jobs.ashbyhq.com/loot-labs) |
 | Lovable | ashby | [https://jobs.ashbyhq.com/lovable](https://jobs.ashbyhq.com/lovable) |
 | [LTV Protocol](https://ltv.finance) | ashby | [https://jobs.ashbyhq.com/ltv](https://jobs.ashbyhq.com/ltv) |
 | Lumafield | lever | [https://jobs.lever.co/lumafield](https://jobs.lever.co/lumafield) |
@@ -1112,6 +1117,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
 | [Rho X](https://x.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | [Rho X LP Vault](https://www.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
+| Rhombus Power | greenhouse | [https://boards.greenhouse.io/rhombuspower](https://boards.greenhouse.io/rhombuspower) |
 | Ripple | greenhouse | [https://boards.greenhouse.io/ripple](https://boards.greenhouse.io/ripple) |
 | Rippling | custom | [custom/rippling](custom/rippling) |
 | RISC Zero | ashby | [https://jobs.ashbyhq.com/risczero](https://jobs.ashbyhq.com/risczero) |
@@ -1128,6 +1134,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Rooster Protocol V1](https://www.rooster-protocol.xyz/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
 | [Rooster Protocol V2](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
 | Rove | bamboohr | [https://rove.bamboohr.com/careers](https://rove.bamboohr.com/careers) |
+| Rox | ashby | [https://jobs.ashbyhq.com/Rox-Data-Corp](https://jobs.ashbyhq.com/Rox-Data-Corp) |
 | Royal | bamboohr | [https://royal.bamboohr.com/careers](https://royal.bamboohr.com/careers) |
 | RunPod | greenhouse | [https://boards.greenhouse.io/runpod](https://boards.greenhouse.io/runpod) |
 | Runway | ashby | [https://jobs.ashbyhq.com/runway](https://jobs.ashbyhq.com/runway) |
