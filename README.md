@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-29
+**Last updated:** 2026-04-30
 
-**Total companies:** 1482
+**Total companies:** 1489
 
 ## Protocols
 
@@ -490,6 +490,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Ethos Network](https://ethos.network/) | greenhouse | [https://boards.greenhouse.io/ethos](https://boards.greenhouse.io/ethos) |
 | EverGive | recruitee | [https://evergive.recruitee.com](https://evergive.recruitee.com) |
 | Everstake | getro | [getro/everstake](getro/everstake) |
+| Exa | ashby | [https://jobs.ashbyhq.com/exa](https://jobs.ashbyhq.com/exa) |
 | Exo Tech | getro | [getro/exo-tech](getro/exo-tech) |
 | Exodus | getro | [getro/exodus-2](getro/exodus-2) |
 | EY | recruitee | [https://ey.recruitee.com](https://ey.recruitee.com) |
@@ -542,6 +543,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Flux Finance](https://fluxfinance.com) | ashby | [https://jobs.ashbyhq.com/flux](https://jobs.ashbyhq.com/flux) |
 | Fly.io | bamboohr | [https://flyio.bamboohr.com/careers](https://flyio.bamboohr.com/careers) |
 | Forge | ashby | [https://jobs.ashbyhq.com/forge](https://jobs.ashbyhq.com/forge) |
+| Form Energy | ashby | [https://jobs.ashbyhq.com/formenergy](https://jobs.ashbyhq.com/formenergy) |
 | Formation Bio | greenhouse | [https://boards.greenhouse.io/formationbio](https://boards.greenhouse.io/formationbio) |
 | Forta | greenhouse | [https://boards.greenhouse.io/forta](https://boards.greenhouse.io/forta) |
 | Forte | recruitee | [https://forte.recruitee.com](https://forte.recruitee.com) |
@@ -630,6 +632,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [HERE Wallet staking](https://herewallet.app/stake) | greenhouse | [https://boards.greenhouse.io/hereio](https://boards.greenhouse.io/hereio) |
 | Hex | greenhouse | [https://boards.greenhouse.io/hextechnologies](https://boards.greenhouse.io/hextechnologies) |
 | Heygen | greenhouse | [https://boards.greenhouse.io/heygen](https://boards.greenhouse.io/heygen) |
+| HiddenLayer | greenhouse | [https://boards.greenhouse.io/hiddenlayer](https://boards.greenhouse.io/hiddenlayer) |
 | Higgsfield | ashby | [https://jobs.ashbyhq.com/higgsfieldai](https://jobs.ashbyhq.com/higgsfieldai) |
 | Hightouch | greenhouse | [https://boards.greenhouse.io/hightouch](https://boards.greenhouse.io/hightouch) |
 | Hims & Hers | ashby | [https://jobs.ashbyhq.com/hims-and-hers](https://jobs.ashbyhq.com/hims-and-hers) |
@@ -754,6 +757,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Kuzco | getro | [getro/kuzco](getro/kuzco) |
 | kyros.fi | getro | [getro/kyros-fi](getro/kyros-fi) |
 | Labelbox | greenhouse | [https://boards.greenhouse.io/labelbox](https://boards.greenhouse.io/labelbox) |
+| Lakera | ashby | [https://jobs.ashbyhq.com/lakera.ai](https://jobs.ashbyhq.com/lakera.ai) |
 | Lambda | ashby | [https://jobs.ashbyhq.com/lambda](https://jobs.ashbyhq.com/lambda) |
 | Lambda Labs | ashby | [https://jobs.ashbyhq.com/lambda](https://jobs.ashbyhq.com/lambda) |
 | LangChain | ashby | [https://jobs.ashbyhq.com/langchain](https://jobs.ashbyhq.com/langchain) |
@@ -767,6 +771,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | LayerZero | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | LayerZero Labs | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | Ledger | ashby | [https://jobs.ashbyhq.com/ledger](https://jobs.ashbyhq.com/ledger) |
+| Legend Trade | ashby | [https://jobs.ashbyhq.com/legend-xyz](https://jobs.ashbyhq.com/legend-xyz) |
 | [Legion](https://legion.cc?homie=BNXWVHY6) | greenhouse | [https://boards.greenhouse.io/legion](https://boards.greenhouse.io/legion) |
 | [Lemon.io](https://lemon.io) | bamboohr | [https://lemonio.bamboohr.com/careers](https://lemonio.bamboohr.com/careers) |
 | [Lenfi](https://aada.finance) | bamboohr | [https://len.bamboohr.com/careers](https://len.bamboohr.com/careers) |
@@ -1099,6 +1104,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Pye | getro | [getro/pye-2-d7ea158d-5a13-4931-9cfc-a2f239cd6090](getro/pye-2-d7ea158d-5a13-4931-9cfc-a2f239cd6090) |
 | Pyth Network | ashby | [https://jobs.ashbyhq.com/pythnetwork](https://jobs.ashbyhq.com/pythnetwork) |
 | QuickNode | ashby | [https://jobs.ashbyhq.com/quicknode](https://jobs.ashbyhq.com/quicknode) |
+| Quora | ashby | [https://jobs.ashbyhq.com/quora](https://jobs.ashbyhq.com/quora) |
 | R3 | getro | [getro/r3](getro/r3) |
 | Radix | recruitee | [https://radix.recruitee.com](https://radix.recruitee.com) |
 | Raiku | getro | [getro/raiku](getro/raiku) |
@@ -1386,6 +1392,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Tulip Interfaces | greenhouse | [https://boards.greenhouse.io/tulip](https://boards.greenhouse.io/tulip) |
 | Turing Labs | greenhouse | [https://boards.greenhouse.io/turing](https://boards.greenhouse.io/turing) |
 | Turnkey | ashby | [https://jobs.ashbyhq.com/turnkey](https://jobs.ashbyhq.com/turnkey) |
+| Twelve | ashby | [https://jobs.ashbyhq.com/twelve](https://jobs.ashbyhq.com/twelve) |
 | Twilio | greenhouse | [https://boards.greenhouse.io/twilio](https://boards.greenhouse.io/twilio) |
 | Twin Health | greenhouse | [https://boards.greenhouse.io/twinhealth](https://boards.greenhouse.io/twinhealth) |
 | Twinstake | bamboohr | [https://twinstake.bamboohr.com/careers](https://twinstake.bamboohr.com/careers) |
