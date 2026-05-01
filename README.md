@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-30
+**Last updated:** 2026-05-01
 
-**Total companies:** 1489
+**Total companies:** 1502
 
 ## Protocols
 
@@ -130,6 +130,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Astra | ashby | [https://jobs.ashbyhq.com/astra](https://jobs.ashbyhq.com/astra) |
 | Astralane | getro | [getro/astralane](getro/astralane) |
 | Astranis | greenhouse | [https://boards.greenhouse.io/astranis](https://boards.greenhouse.io/astranis) |
+| Astronomer | ashby | [https://jobs.ashbyhq.com/astronomer](https://jobs.ashbyhq.com/astronomer) |
 | Asymmetric Research | ashby | [https://jobs.ashbyhq.com/asymmetric.re](https://jobs.ashbyhq.com/asymmetric.re) |
 | AthenaHQ | ashby | [https://jobs.ashbyhq.com/athena-hq](https://jobs.ashbyhq.com/athena-hq) |
 | Atlassian | custom | [custom/atlassian](custom/atlassian) |
@@ -305,6 +306,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Click Therapeutics | greenhouse | [https://boards.greenhouse.io/clicktherapeutics](https://boards.greenhouse.io/clicktherapeutics) |
 | ClickHouse | greenhouse | [https://boards.greenhouse.io/clickhouse](https://boards.greenhouse.io/clickhouse) |
 | Climeworks | recruitee | [https://climeworks.recruitee.com](https://climeworks.recruitee.com) |
+| Cline | greenhouse | [https://boards.greenhouse.io/cline](https://boards.greenhouse.io/cline) |
 | Clip Finance | bamboohr | [https://clip.bamboohr.com/careers](https://clip.bamboohr.com/careers) |
 | [Close](https://close.com) | ashby | [https://jobs.ashbyhq.com/close](https://jobs.ashbyhq.com/close) |
 | Cloudflare | greenhouse | [https://boards.greenhouse.io/cloudflare](https://boards.greenhouse.io/cloudflare) |
@@ -333,6 +335,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Collective Shift | ashby | [https://jobs.ashbyhq.com/collective](https://jobs.ashbyhq.com/collective) |
 | Color Health | ashby | [https://jobs.ashbyhq.com/color-health](https://jobs.ashbyhq.com/color-health) |
 | Colossal Biosciences | greenhouse | [https://boards.greenhouse.io/colossalbiosciences](https://boards.greenhouse.io/colossalbiosciences) |
+| Comet | greenhouse | [https://boards.greenhouse.io/comet](https://boards.greenhouse.io/comet) |
 | Comet ML | greenhouse | [https://boards.greenhouse.io/comet](https://boards.greenhouse.io/comet) |
 | ComfyUI | ashby | [https://jobs.ashbyhq.com/comfy-org](https://jobs.ashbyhq.com/comfy-org) |
 | Community Gaming | greenhouse | [https://boards.greenhouse.io/community](https://boards.greenhouse.io/community) |
@@ -598,6 +601,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Grayscale | greenhouse | [https://boards.greenhouse.io/grayscale](https://boards.greenhouse.io/grayscale) |
 | [Green Planet](https://app.planet.finance/) | ashby | [https://jobs.ashbyhq.com/green](https://jobs.ashbyhq.com/green) |
 | [Greenhouse Finance](https://greenhouse.finance/) | greenhouse | [https://boards.greenhouse.io/greenhouse](https://boards.greenhouse.io/greenhouse) |
+| Greptile | ashby | [https://jobs.ashbyhq.com/greptile](https://jobs.ashbyhq.com/greptile) |
 | [Gro](https://www.gro.xyz) | recruitee | [https://gro.recruitee.com](https://gro.recruitee.com) |
 | Groma | greenhouse | [https://boards.greenhouse.io/groma](https://boards.greenhouse.io/groma) |
 | Grow Therapy | greenhouse | [https://boards.greenhouse.io/growtherapy](https://boards.greenhouse.io/growtherapy) |
@@ -697,6 +701,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | InterSystems | greenhouse | [https://boards.greenhouse.io/intersystems](https://boards.greenhouse.io/intersystems) |
 | Invert | ashby | [https://jobs.ashbyhq.com/invert](https://jobs.ashbyhq.com/invert) |
 | [Invisible Technologies](https://invisible.co) | greenhouse | [https://boards.greenhouse.io/invisibletech](https://boards.greenhouse.io/invisibletech) |
+| Inworld | ashby | [https://jobs.ashbyhq.com/inworld-ai](https://jobs.ashbyhq.com/inworld-ai) |
 | Ironclad | ashby | [https://jobs.ashbyhq.com/ironcladhq](https://jobs.ashbyhq.com/ironcladhq) |
 | Iterative Health | greenhouse | [https://boards.greenhouse.io/iterativehealth](https://boards.greenhouse.io/iterativehealth) |
 | January | ashby | [https://jobs.ashbyhq.com/january](https://jobs.ashbyhq.com/january) |
@@ -933,6 +938,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | NetBox Labs | ashby | [https://jobs.ashbyhq.com/netboxlabs](https://jobs.ashbyhq.com/netboxlabs) |
 | Nethermind | ashby | [https://jobs.ashbyhq.com/nethermind](https://jobs.ashbyhq.com/nethermind) |
 | Netlify | greenhouse | [https://boards.greenhouse.io/netlify](https://boards.greenhouse.io/netlify) |
+| Netomi | lever | [https://jobs.lever.co/netomi](https://jobs.lever.co/netomi) |
 | Netskope | greenhouse | [https://boards.greenhouse.io/netskope](https://boards.greenhouse.io/netskope) |
 | Neuralink | greenhouse | [https://boards.greenhouse.io/neuralink](https://boards.greenhouse.io/neuralink) |
 | [Newswap](https://app.newswap.org/) | greenhouse | [https://boards.greenhouse.io/new](https://boards.greenhouse.io/new) |
@@ -1080,6 +1086,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Poolside | ashby | [https://jobs.ashbyhq.com/poolside](https://jobs.ashbyhq.com/poolside) |
 | Poolside AI | ashby | [https://jobs.ashbyhq.com/poolside](https://jobs.ashbyhq.com/poolside) |
 | [Portal To Bitcoin](https://portaltobitcoin.com) | recruitee | [https://portal.recruitee.com](https://portal.recruitee.com) |
+| Posh | ashby | [https://jobs.ashbyhq.com/posh](https://jobs.ashbyhq.com/posh) |
 | PostHog | ashby | [https://jobs.ashbyhq.com/posthog](https://jobs.ashbyhq.com/posthog) |
 | Postman | greenhouse | [https://boards.greenhouse.io/postman](https://boards.greenhouse.io/postman) |
 | Prefect | ashby | [https://jobs.ashbyhq.com/prefect](https://jobs.ashbyhq.com/prefect) |
@@ -1203,6 +1210,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Sentry | ashby | [https://jobs.ashbyhq.com/sentry](https://jobs.ashbyhq.com/sentry) |
 | Sequence | ashby | [https://jobs.ashbyhq.com/sequence](https://jobs.ashbyhq.com/sequence) |
 | Serotonin | lever | [https://jobs.lever.co/serotonin](https://jobs.lever.co/serotonin) |
+| Sesame | ashby | [https://jobs.ashbyhq.com/sesame](https://jobs.ashbyhq.com/sesame) |
 | sFOX | greenhouse | [https://boards.greenhouse.io/sfox](https://boards.greenhouse.io/sfox) |
 | [Shadow Exchange CLMM](https://www.shadow.so) | greenhouse | [https://boards.greenhouse.io/shadow](https://boards.greenhouse.io/shadow) |
 | [Shadow Exchange Legacy](https://www.shadow.so/) | greenhouse | [https://boards.greenhouse.io/shadow](https://boards.greenhouse.io/shadow) |
@@ -1256,6 +1264,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Spark Advisors | greenhouse | [https://boards.greenhouse.io/sparkadvisors](https://boards.greenhouse.io/sparkadvisors) |
 | [Spark Savings](https://data.spark.fi/savings/) | recruitee | [https://spark.recruitee.com](https://spark.recruitee.com) |
 | Speak | ashby | [https://jobs.ashbyhq.com/speak](https://jobs.ashbyhq.com/speak) |
+| Speakeasy | ashby | [https://jobs.ashbyhq.com/speakeasy](https://jobs.ashbyhq.com/speakeasy) |
 | Spearbit | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spearbit Labs | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spectral Finance | bamboohr | [https://spectral.bamboohr.com/careers](https://spectral.bamboohr.com/careers) |
@@ -1386,7 +1395,9 @@ A curated list of companies and their job boards, automatically updated daily.
 | Triton One | getro | [getro/triton-one-2](getro/triton-one-2) |
 | TRM | ashby | [https://jobs.ashbyhq.com/trm-labs](https://jobs.ashbyhq.com/trm-labs) |
 | Trojan Trading | getro | [getro/trojan-trading](getro/trojan-trading) |
+| Truefoundry | greenhouse | [https://boards.greenhouse.io/truefoundry](https://boards.greenhouse.io/truefoundry) |
 | TrueML | lever | [https://jobs.lever.co/trueml](https://jobs.lever.co/trueml) |
+| Trumid | greenhouse | [https://boards.greenhouse.io/trumid](https://boards.greenhouse.io/trumid) |
 | Trunk Tools | ashby | [https://jobs.ashbyhq.com/trunk tools](https://jobs.ashbyhq.com/trunk tools) |
 | Trust Wallet | ashby | [https://jobs.ashbyhq.com/trust-wallet](https://jobs.ashbyhq.com/trust-wallet) |
 | Tulip Interfaces | greenhouse | [https://boards.greenhouse.io/tulip](https://boards.greenhouse.io/tulip) |
@@ -1459,6 +1470,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Wiz | greenhouse | [https://boards.greenhouse.io/wizinc](https://boards.greenhouse.io/wizinc) |
 | WOO | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
+| [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
+| [WOOFi Swap](https://woofi.com/en/trade?ref=DEFILLAMA) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | WorkOS | ashby | [https://jobs.ashbyhq.com/workos](https://jobs.ashbyhq.com/workos) |
 | WorkWhile | ashby | [https://jobs.ashbyhq.com/workwhilejobs](https://jobs.ashbyhq.com/workwhilejobs) |
 | World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
