@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-09
+**Last updated:** 2026-05-10
 
-**Total companies:** 1675
+**Total companies:** 1680
 
 ## Protocols
 
@@ -544,6 +544,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | EverGive | recruitee | [https://evergive.recruitee.com](https://evergive.recruitee.com) |
 | Everstake | getro | [getro/everstake](getro/everstake) |
 | Exa | ashby | [https://jobs.ashbyhq.com/exa](https://jobs.ashbyhq.com/exa) |
+| Exa AI | ashby | [https://jobs.ashbyhq.com/exa](https://jobs.ashbyhq.com/exa) |
 | Exo Tech | getro | [getro/exo-tech](getro/exo-tech) |
 | Exodus | getro | [getro/exodus-2](getro/exodus-2) |
 | EY | recruitee | [https://ey.recruitee.com](https://ey.recruitee.com) |
@@ -976,6 +977,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Mochi Health | greenhouse | [https://boards.greenhouse.io/mochihealth](https://boards.greenhouse.io/mochihealth) |
 | Modal | ashby | [https://jobs.ashbyhq.com/modal](https://jobs.ashbyhq.com/modal) |
 | Modal Labs | ashby | [https://jobs.ashbyhq.com/modal](https://jobs.ashbyhq.com/modal) |
+| Modern Health | greenhouse | [https://boards.greenhouse.io/modernhealth](https://boards.greenhouse.io/modernhealth) |
 | Modern Treasury | ashby | [https://jobs.ashbyhq.com/moderntreasury](https://jobs.ashbyhq.com/moderntreasury) |
 | Modulate | lever | [https://jobs.lever.co/modulate](https://jobs.lever.co/modulate) |
 | Molecule | getro | [getro/molecule-2-7e5b135d-da2a-4010-8aed-f55aaa6a1dbc](getro/molecule-2-7e5b135d-da2a-4010-8aed-f55aaa6a1dbc) |
@@ -1159,6 +1161,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Perle | getro | [getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b](getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b) |
 | PermitFlow | ashby | [https://jobs.ashbyhq.com/permitflow](https://jobs.ashbyhq.com/permitflow) |
 | Perplexity | ashby | [https://jobs.ashbyhq.com/perplexity](https://jobs.ashbyhq.com/perplexity) |
+| Perplexity AI | ashby | [https://jobs.ashbyhq.com/perplexity](https://jobs.ashbyhq.com/perplexity) |
 | Persona | ashby | [https://jobs.ashbyhq.com/persona](https://jobs.ashbyhq.com/persona) |
 | [Phantom](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
 | [Phantom SOL](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
@@ -1409,6 +1412,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Spearbit | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spearbit Labs | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spectral Finance | bamboohr | [https://spectral.bamboohr.com/careers](https://spectral.bamboohr.com/careers) |
+| Spektr | greenhouse | [https://boards.greenhouse.io/spektr](https://boards.greenhouse.io/spektr) |
 | Sphere | getro | [getro/sphere-2-616d53dc-510a-46c7-a2a6-e569d8c70b50](getro/sphere-2-616d53dc-510a-46c7-a2a6-e569d8c70b50) |
 | [Sphere Finance](https://sphere.finance) | ashby | [https://jobs.ashbyhq.com/sphere](https://jobs.ashbyhq.com/sphere) |
 | Spice AI | getro | [getro/spice-ai-2](getro/spice-ai-2) |
@@ -1494,6 +1498,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Tangible RWA](https://www.tangible.store) | bamboohr | [https://tangible.bamboohr.com/careers](https://tangible.bamboohr.com/careers) |
 | TaskRabbit | greenhouse | [https://boards.greenhouse.io/taskrabbit](https://boards.greenhouse.io/taskrabbit) |
 | [TAU Labs](https://www.628labs.xyz/) | greenhouse | [https://boards.greenhouse.io/tau](https://boards.greenhouse.io/tau) |
+| Tavily | ashby | [https://jobs.ashbyhq.com/tavily](https://jobs.ashbyhq.com/tavily) |
 | Tavus | ashby | [https://jobs.ashbyhq.com/tavus](https://jobs.ashbyhq.com/tavus) |
 | TaxBit | greenhouse | [https://boards.greenhouse.io/taxbit](https://boards.greenhouse.io/taxbit) |
 | Tekmetric | greenhouse | [https://boards.greenhouse.io/tekmetric](https://boards.greenhouse.io/tekmetric) |
