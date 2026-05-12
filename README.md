@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-11
+**Last updated:** 2026-05-12
 
-**Total companies:** 1688
+**Total companies:** 1693
 
 ## Protocols
 
@@ -256,6 +256,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Bubble | ashby | [https://jobs.ashbyhq.com/bubble](https://jobs.ashbyhq.com/bubble) |
 | [Buffer](https://buffer.com) | ashby | [https://jobs.ashbyhq.com/buffer](https://jobs.ashbyhq.com/buffer) |
 | Buildkite | greenhouse | [https://boards.greenhouse.io/buildkite](https://boards.greenhouse.io/buildkite) |
+| BuildOps | greenhouse | [https://boards.greenhouse.io/buildops](https://boards.greenhouse.io/buildops) |
 | Bullet | getro | [getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498](getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498) |
 | [Bunny](https://pancakebunny.finance/) | ashby | [https://jobs.ashbyhq.com/bunny](https://jobs.ashbyhq.com/bunny) |
 | [BunnySwap](https://www.friend.tech/) | ashby | [https://jobs.ashbyhq.com/bunny](https://jobs.ashbyhq.com/bunny) |
@@ -428,6 +429,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | D2X | bamboohr | [https://d2x.bamboohr.com/careers](https://d2x.bamboohr.com/careers) |
 | D3 | greenhouse | [https://boards.greenhouse.io/d3](https://boards.greenhouse.io/d3) |
 | Dagster | greenhouse | [https://boards.greenhouse.io/dagsterlabs](https://boards.greenhouse.io/dagsterlabs) |
+| Dandy | ashby | [https://jobs.ashbyhq.com/dandy](https://jobs.ashbyhq.com/dandy) |
 | Dapper Labs | ashby | [https://jobs.ashbyhq.com/dapper](https://jobs.ashbyhq.com/dapper) |
 | Databricks | greenhouse | [https://boards.greenhouse.io/databricks](https://boards.greenhouse.io/databricks) |
 | Datadog | greenhouse | [https://boards.greenhouse.io/datadog](https://boards.greenhouse.io/datadog) |
@@ -726,6 +728,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Huma | getro | [getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244](getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244) |
 | Hume | greenhouse | [https://boards.greenhouse.io/hume](https://boards.greenhouse.io/hume) |
 | Hume AI | greenhouse | [https://boards.greenhouse.io/humeai](https://boards.greenhouse.io/humeai) |
+| Huntress | greenhouse | [https://boards.greenhouse.io/huntress](https://boards.greenhouse.io/huntress) |
 | Hut 8 | greenhouse | [https://boards.greenhouse.io/hut8](https://boards.greenhouse.io/hut8) |
 | Hylo | getro | [getro/hylo-2](getro/hylo-2) |
 | Hyperbolic Labs | ashby | [https://jobs.ashbyhq.com/hyperbolic](https://jobs.ashbyhq.com/hyperbolic) |
@@ -944,6 +947,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Mercor | ashby | [https://jobs.ashbyhq.com/mercor](https://jobs.ashbyhq.com/mercor) |
 | [Mercury](https://mercury.com/careers) | greenhouse | [https://boards.greenhouse.io/mercury](https://boards.greenhouse.io/mercury) |
 | Mercuryo | bamboohr | [https://mercuryo.bamboohr.com/careers](https://mercuryo.bamboohr.com/careers) |
+| Merge | greenhouse | [https://boards.greenhouse.io/merge](https://boards.greenhouse.io/merge) |
 | [Meridian AMM](https://www.meridian.money) | ashby | [https://jobs.ashbyhq.com/meridian](https://jobs.ashbyhq.com/meridian) |
 | Merit Circle | greenhouse | [https://boards.greenhouse.io/merit](https://boards.greenhouse.io/merit) |
 | Merkle Science | lever | [https://jobs.lever.co/merklescience](https://jobs.lever.co/merklescience) |
@@ -1130,6 +1134,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Original | greenhouse | [https://boards.greenhouse.io/original](https://boards.greenhouse.io/original) |
 | Osmosis | greenhouse | [https://boards.greenhouse.io/osmosis](https://boards.greenhouse.io/osmosis) |
 | [Osmosis DEX](https://osmosis.zone/) | greenhouse | [https://boards.greenhouse.io/osmosisdex](https://boards.greenhouse.io/osmosisdex) |
+| Oso | ashby | [https://jobs.ashbyhq.com/oso](https://jobs.ashbyhq.com/oso) |
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
 | Otter | greenhouse | [https://boards.greenhouse.io/otter](https://boards.greenhouse.io/otter) |
 | Otter.ai | greenhouse | [https://boards.greenhouse.io/otterai](https://boards.greenhouse.io/otterai) |
