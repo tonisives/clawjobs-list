@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-14
+**Last updated:** 2026-05-15
 
-**Total companies:** 1729
+**Total companies:** 1735
 
 ## Protocols
 
@@ -66,8 +66,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Alloy | greenhouse | [https://boards.greenhouse.io/alloy](https://boards.greenhouse.io/alloy) |
 | Almanax | getro | [getro/almanax](getro/almanax) |
 | Alpaca Finance | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
-| [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
+| [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Leveraged Yield Farming | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
@@ -444,6 +444,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Dapper Labs | ashby | [https://jobs.ashbyhq.com/dapper](https://jobs.ashbyhq.com/dapper) |
 | Databricks | greenhouse | [https://boards.greenhouse.io/databricks](https://boards.greenhouse.io/databricks) |
 | Datadog | greenhouse | [https://boards.greenhouse.io/datadog](https://boards.greenhouse.io/datadog) |
+| DataGrail | greenhouse | [https://boards.greenhouse.io/datagrail](https://boards.greenhouse.io/datagrail) |
 | Dataiku | greenhouse | [https://boards.greenhouse.io/dataiku](https://boards.greenhouse.io/dataiku) |
 | David Energy | ashby | [https://jobs.ashbyhq.com/davidenergy](https://jobs.ashbyhq.com/davidenergy) |
 | Daylight | greenhouse | [https://boards.greenhouse.io/daylight](https://boards.greenhouse.io/daylight) |
@@ -776,6 +777,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Inflection | ashby | [https://jobs.ashbyhq.com/inflectionio](https://jobs.ashbyhq.com/inflectionio) |
 | Inflection AI | greenhouse | [https://boards.greenhouse.io/inflectionai](https://boards.greenhouse.io/inflectionai) |
 | Informal Systems | greenhouse | [https://boards.greenhouse.io/informal](https://boards.greenhouse.io/informal) |
+| Infracost | ashby | [https://jobs.ashbyhq.com/infracost](https://jobs.ashbyhq.com/infracost) |
 | InfStones | lever | [https://jobs.lever.co/infstones](https://jobs.lever.co/infstones) |
 | Injective | ashby | [https://jobs.ashbyhq.com/injective](https://jobs.ashbyhq.com/injective) |
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
@@ -861,6 +863,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Kuru Aggregator | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | [Kuru CLOB](https://www.kuru.io/) | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | Kuzco | getro | [getro/kuzco](getro/kuzco) |
+| [Kyros](https://kyros.fi) | getro | [getro/kyros-2-7d717628-662c-4341-bf2b-bb54570fd16f](getro/kyros-2-7d717628-662c-4341-bf2b-bb54570fd16f) |
 | kyros.fi | getro | [getro/kyros-fi](getro/kyros-fi) |
 | Labelbox | greenhouse | [https://boards.greenhouse.io/labelbox](https://boards.greenhouse.io/labelbox) |
 | Lago | ashby | [https://jobs.ashbyhq.com/lago](https://jobs.ashbyhq.com/lago) |
@@ -1096,6 +1099,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Notabene | ashby | [https://jobs.ashbyhq.com/notabene](https://jobs.ashbyhq.com/notabene) |
 | Notion | ashby | [https://jobs.ashbyhq.com/notion](https://jobs.ashbyhq.com/notion) |
 | Nous Research | getro | [getro/nous-research](getro/nous-research) |
+| Nova Credit | greenhouse | [https://boards.greenhouse.io/novacredit](https://boards.greenhouse.io/novacredit) |
 | Nova Intelligence | ashby | [https://jobs.ashbyhq.com/novaintelligence](https://jobs.ashbyhq.com/novaintelligence) |
 | Novig | ashby | [https://jobs.ashbyhq.com/novig](https://jobs.ashbyhq.com/novig) |
 | [Nucleus](https://www.nucleusearn.io) | bamboohr | [https://nucleus.bamboohr.com/careers](https://nucleus.bamboohr.com/careers) |
@@ -1285,6 +1289,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Ramp](https://ramp.com/careers) | ashby | [https://jobs.ashbyhq.com/ramp](https://jobs.ashbyhq.com/ramp) |
 | Ramp Network | ashby | [https://jobs.ashbyhq.com/ramp](https://jobs.ashbyhq.com/ramp) |
 | Range | getro | [getro/range-2-e18be6f6-0793-4772-b997-4d572a379eb9](getro/range-2-e18be6f6-0793-4772-b997-4d572a379eb9) |
+| [Rank Trading](https://rank.trading/) | recruitee | [https://rank.recruitee.com](https://rank.recruitee.com) |
 | Raycast | ashby | [https://jobs.ashbyhq.com/raycast](https://jobs.ashbyhq.com/raycast) |
 | [Re](https://app.re.xyz/?ref=nuu0c) | ashby | [https://jobs.ashbyhq.com/reteam](https://jobs.ashbyhq.com/reteam) |
 | Read AI | ashby | [https://jobs.ashbyhq.com/read-ai](https://jobs.ashbyhq.com/read-ai) |
@@ -1506,6 +1511,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Stronghold Staked SOL](https://strongholdsol.com/) | ashby | [https://jobs.ashbyhq.com/stronghold](https://jobs.ashbyhq.com/stronghold) |
 | Stytch | ashby | [https://jobs.ashbyhq.com/stytch](https://jobs.ashbyhq.com/stytch) |
 | Substack | ashby | [https://jobs.ashbyhq.com/substack](https://jobs.ashbyhq.com/substack) |
+| Substrate | ashby | [https://jobs.ashbyhq.com/substrate](https://jobs.ashbyhq.com/substrate) |
 | Substrate AI | ashby | [https://jobs.ashbyhq.com/substrate](https://jobs.ashbyhq.com/substrate) |
 | Subzero Labs | ashby | [https://jobs.ashbyhq.com/subzero](https://jobs.ashbyhq.com/subzero) |
 | Succinct | ashby | [https://jobs.ashbyhq.com/succinct](https://jobs.ashbyhq.com/succinct) |
