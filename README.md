@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-15
+**Last updated:** 2026-05-16
 
-**Total companies:** 1735
+**Total companies:** 1740
 
 ## Protocols
 
@@ -66,8 +66,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Alloy | greenhouse | [https://boards.greenhouse.io/alloy](https://boards.greenhouse.io/alloy) |
 | Almanax | getro | [getro/almanax](getro/almanax) |
 | Alpaca Finance | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
-| Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | [Alpaca Finance 2.0](https://app-v2.alpacafinance.org/market) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
+| Alpaca Finance 2.0 | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpaca Leveraged Yield Farming | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
@@ -696,6 +696,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Guild of Guardians | greenhouse | [https://boards.greenhouse.io/guild](https://boards.greenhouse.io/guild) |
 | Gumloop | ashby | [https://jobs.ashbyhq.com/gumloop](https://jobs.ashbyhq.com/gumloop) |
 | Gusto | greenhouse | [https://boards.greenhouse.io/gusto](https://boards.greenhouse.io/gusto) |
+| H Company | ashby | [https://jobs.ashbyhq.com/hcompany](https://jobs.ashbyhq.com/hcompany) |
 | HackerRank | greenhouse | [https://boards.greenhouse.io/hackerrank](https://boards.greenhouse.io/hackerrank) |
 | Hadrian | ashby | [https://jobs.ashbyhq.com/hadrian-automation](https://jobs.ashbyhq.com/hadrian-automation) |
 | Hall | getro | [getro/hall-2](getro/hall-2) |
@@ -1048,6 +1049,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Moxie | ashby | [https://jobs.ashbyhq.com/moxie](https://jobs.ashbyhq.com/moxie) |
 | [Mozilla](https://mozilla.org) | greenhouse | [https://boards.greenhouse.io/mozilla](https://boards.greenhouse.io/mozilla) |
 | Mujin | bamboohr | [https://mujin.bamboohr.com/careers](https://mujin.bamboohr.com/careers) |
+| Multiverse | ashby | [https://jobs.ashbyhq.com/multiverse](https://jobs.ashbyhq.com/multiverse) |
 | Mural | ashby | [https://jobs.ashbyhq.com/mural](https://jobs.ashbyhq.com/mural) |
 | Mux | ashby | [https://jobs.ashbyhq.com/mux](https://jobs.ashbyhq.com/mux) |
 | [MUX Perps](https://mux.network/) | ashby | [https://jobs.ashbyhq.com/mux](https://jobs.ashbyhq.com/mux) |
@@ -1175,6 +1177,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | P2P.org | ashby | [https://jobs.ashbyhq.com/p2p.org](https://jobs.ashbyhq.com/p2p.org) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
 | Padlet | ashby | [https://jobs.ashbyhq.com/padlet](https://jobs.ashbyhq.com/padlet) |
+| PagerDuty | greenhouse | [https://boards.greenhouse.io/pagerduty](https://boards.greenhouse.io/pagerduty) |
 | Palantir | lever | [https://jobs.lever.co/palantir](https://jobs.lever.co/palantir) |
 | Pallet | greenhouse | [https://boards.greenhouse.io/pallet](https://boards.greenhouse.io/pallet) |
 | [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
@@ -1363,6 +1366,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | SafetyCulture | getro | [getro/safetyculture-2-d0ff86a5-3d05-4aa1-a51f-a3a13f7b2cf7](getro/safetyculture-2-d0ff86a5-3d05-4aa1-a51f-a3a13f7b2cf7) |
 | Sahara AI | ashby | [https://jobs.ashbyhq.com/sahara](https://jobs.ashbyhq.com/sahara) |
 | Sahha | getro | [getro/sahha](getro/sahha) |
+| Sailor Health | ashby | [https://jobs.ashbyhq.com/sailorhealth](https://jobs.ashbyhq.com/sailorhealth) |
 | Salesloft | greenhouse | [https://boards.greenhouse.io/salesloft](https://boards.greenhouse.io/salesloft) |
 | Salient | ashby | [https://jobs.ashbyhq.com/salient](https://jobs.ashbyhq.com/salient) |
 | Samara Aerospace | greenhouse | [https://boards.greenhouse.io/samaraaerospace](https://boards.greenhouse.io/samaraaerospace) |
@@ -1588,6 +1592,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Toma | ashby | [https://jobs.ashbyhq.com/toma](https://jobs.ashbyhq.com/toma) |
 | TomNext | getro | [getro/tomnext](getro/tomnext) |
 | [Tomo](https://tomo.inc) | ashby | [https://jobs.ashbyhq.com/tomo](https://jobs.ashbyhq.com/tomo) |
+| Tonic | lever | [https://jobs.lever.co/tonic](https://jobs.lever.co/tonic) |
 | Tools for Humanity | ashby | [https://jobs.ashbyhq.com/Tools for Humanity](https://jobs.ashbyhq.com/Tools for Humanity) |
 | Topline Pro | ashby | [https://jobs.ashbyhq.com/topline-pro](https://jobs.ashbyhq.com/topline-pro) |
 | [Toptal](https://toptal.com) | lever | [https://jobs.lever.co/toptal](https://jobs.lever.co/toptal) |
