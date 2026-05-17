@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-16
+**Last updated:** 2026-05-17
 
-**Total companies:** 1740
+**Total companies:** 1745
 
 ## Protocols
 
@@ -525,6 +525,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [EigenCloud](https://www.eigencloud.xyz) | ashby | [https://jobs.ashbyhq.com/eigen-labs](https://jobs.ashbyhq.com/eigen-labs) |
 | EigenLayer | ashby | [https://jobs.ashbyhq.com/eigen-labs](https://jobs.ashbyhq.com/eigen-labs) |
 | Eiger | greenhouse | [https://boards.greenhouse.io/eiger](https://boards.greenhouse.io/eiger) |
+| Eight Sleep | ashby | [https://jobs.ashbyhq.com/eightsleep](https://jobs.ashbyhq.com/eightsleep) |
 | Elastic | greenhouse | [https://boards.greenhouse.io/elastic](https://boards.greenhouse.io/elastic) |
 | ElevenLabs | ashby | [https://jobs.ashbyhq.com/elevenlabs](https://jobs.ashbyhq.com/elevenlabs) |
 | Elicit | ashby | [https://jobs.ashbyhq.com/elicit](https://jobs.ashbyhq.com/elicit) |
@@ -798,6 +799,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Invert | ashby | [https://jobs.ashbyhq.com/invert](https://jobs.ashbyhq.com/invert) |
 | [Invisible Technologies](https://invisible.co) | greenhouse | [https://boards.greenhouse.io/invisibletech](https://boards.greenhouse.io/invisibletech) |
 | Inworld | ashby | [https://jobs.ashbyhq.com/inworld-ai](https://jobs.ashbyhq.com/inworld-ai) |
+| IonQ | greenhouse | [https://boards.greenhouse.io/ionq](https://boards.greenhouse.io/ionq) |
 | Ironclad | ashby | [https://jobs.ashbyhq.com/ironcladhq](https://jobs.ashbyhq.com/ironcladhq) |
 | Isomorphic Labs | greenhouse | [https://boards.greenhouse.io/isomorphiclabs](https://boards.greenhouse.io/isomorphiclabs) |
 | Iterative Health | greenhouse | [https://boards.greenhouse.io/iterativehealth](https://boards.greenhouse.io/iterativehealth) |
@@ -1069,6 +1071,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Nayya | greenhouse | [https://boards.greenhouse.io/nayya](https://boards.greenhouse.io/nayya) |
 | Near Foundation | greenhouse | [https://boards.greenhouse.io/nearfoundation](https://boards.greenhouse.io/nearfoundation) |
 | Nebius | greenhouse | [https://boards.greenhouse.io/nebius](https://boards.greenhouse.io/nebius) |
+| Nectar Social | ashby | [https://jobs.ashbyhq.com/nectar-social](https://jobs.ashbyhq.com/nectar-social) |
 | Neon | ashby | [https://jobs.ashbyhq.com/neon](https://jobs.ashbyhq.com/neon) |
 | Neon | ashby | [https://jobs.ashbyhq.com/neon](https://jobs.ashbyhq.com/neon) |
 | Neon Labs | bamboohr | [https://neonlabs.bamboohr.com/careers](https://neonlabs.bamboohr.com/careers) |
@@ -1132,6 +1135,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | OneSchema | ashby | [https://jobs.ashbyhq.com/oneschema](https://jobs.ashbyhq.com/oneschema) |
 | OneStudyTeam | greenhouse | [https://boards.greenhouse.io/onestudyteam](https://boards.greenhouse.io/onestudyteam) |
 | [OneSwap](https://www.oneswap.net) | bamboohr | [https://one.bamboohr.com/careers](https://one.bamboohr.com/careers) |
+| Onramp Bitcoin | ashby | [https://jobs.ashbyhq.com/onramp](https://jobs.ashbyhq.com/onramp) |
 | Onramper | recruitee | [https://onramper.recruitee.com](https://onramper.recruitee.com) |
 | OP Labs | ashby | [https://jobs.ashbyhq.com/oplabs](https://jobs.ashbyhq.com/oplabs) |
 | OP NET | bamboohr | [https://opnet.bamboohr.com/careers](https://opnet.bamboohr.com/careers) |
@@ -1490,6 +1494,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | StaQ | bamboohr | [https://staqio.bamboohr.com/careers](https://staqio.bamboohr.com/careers) |
 | Star | getro | [getro/star-2-6dcdf5c5-fa98-425b-b185-c177836bda50](getro/star-2-6dcdf5c5-fa98-425b-b185-c177836bda50) |
 | Starburst | greenhouse | [https://boards.greenhouse.io/starburst](https://boards.greenhouse.io/starburst) |
+| Starfish Space | ashby | [https://jobs.ashbyhq.com/starfish-space-inc](https://jobs.ashbyhq.com/starfish-space-inc) |
 | [StarGate](https://stargate.vechain.org/) | ashby | [https://jobs.ashbyhq.com/stargate-foundation](https://jobs.ashbyhq.com/stargate-foundation) |
 | Starknet | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
