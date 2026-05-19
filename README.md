@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-18
+**Last updated:** 2026-05-19
 
-**Total companies:** 2009
+**Total companies:** 2016
 
 ## Protocols
 
@@ -197,6 +197,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | Aven | ashby | [https://jobs.ashbyhq.com/aven](https://jobs.ashbyhq.com/aven) |
 | AVIATION LABOUR GROUP PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201119345C](https://www.mycareersfuture.gov.sg/search?uen=201119345C) |
+| Aviator | ashby | [https://jobs.ashbyhq.com/aviator](https://jobs.ashbyhq.com/aviator) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
 | Axiom | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
 | Axonius | greenhouse | [https://boards.greenhouse.io/axonius](https://boards.greenhouse.io/axonius) |
@@ -460,6 +461,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | CoW DAO | getro | [getro/cow-dao](getro/cow-dao) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
 | Credal | ashby | [https://jobs.ashbyhq.com/credal](https://jobs.ashbyhq.com/credal) |
+| Credal.ai | ashby | [https://jobs.ashbyhq.com/credal](https://jobs.ashbyhq.com/credal) |
 | Credix | getro | [getro/credix](getro/credix) |
 | Cresta | greenhouse | [https://boards.greenhouse.io/cresta](https://boards.greenhouse.io/cresta) |
 | Crogl | ashby | [https://jobs.ashbyhq.com/crogl](https://jobs.ashbyhq.com/crogl) |
@@ -1127,7 +1129,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Mercor | ashby | [https://jobs.ashbyhq.com/mercor](https://jobs.ashbyhq.com/mercor) |
 | [Mercury](https://mercury.com/careers) | greenhouse | [https://boards.greenhouse.io/mercury](https://boards.greenhouse.io/mercury) |
 | Mercuryo | bamboohr | [https://mercuryo.bamboohr.com/careers](https://mercuryo.bamboohr.com/careers) |
-| Merge | greenhouse | [https://boards.greenhouse.io/merge](https://boards.greenhouse.io/merge) |
+| Merge | ashby | [https://jobs.ashbyhq.com/merge](https://jobs.ashbyhq.com/merge) |
 | [Meridian AMM](https://www.meridian.money) | ashby | [https://jobs.ashbyhq.com/meridian](https://jobs.ashbyhq.com/meridian) |
 | Merit Circle | greenhouse | [https://boards.greenhouse.io/merit](https://boards.greenhouse.io/merit) |
 | Merkle Science | lever | [https://jobs.lever.co/merklescience](https://jobs.lever.co/merklescience) |
@@ -1204,6 +1206,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Motherduck | ashby | [https://jobs.ashbyhq.com/motherduck](https://jobs.ashbyhq.com/motherduck) |
 | Motive | greenhouse | [https://boards.greenhouse.io/gomotive](https://boards.greenhouse.io/gomotive) |
 | MOURI TECH PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201503750R](https://www.mycareersfuture.gov.sg/search?uen=201503750R) |
+| Movable Ink | greenhouse | [https://boards.greenhouse.io/movableink](https://boards.greenhouse.io/movableink) |
 | Moveworks | greenhouse | [https://boards.greenhouse.io/moveworks](https://boards.greenhouse.io/moveworks) |
 | Moxie | ashby | [https://jobs.ashbyhq.com/moxie](https://jobs.ashbyhq.com/moxie) |
 | [Mozilla](https://mozilla.org) | greenhouse | [https://boards.greenhouse.io/mozilla](https://boards.greenhouse.io/mozilla) |
@@ -1727,6 +1730,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Steakhouse Financial | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | STEENBOK PTE LTD | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199305056E](https://www.mycareersfuture.gov.sg/search?uen=199305056E) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
+| [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar DEX](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | StockX | greenhouse | [https://boards.greenhouse.io/stockx](https://boards.greenhouse.io/stockx) |
 | Stoke Space | greenhouse | [https://boards.greenhouse.io/stokespacetechnologies](https://boards.greenhouse.io/stokespacetechnologies) |
@@ -1849,6 +1853,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | TRANSPAK SINGAPORE PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200911348G](https://www.mycareersfuture.gov.sg/search?uen=200911348G) |
 | Treasury Prime | greenhouse | [https://boards.greenhouse.io/treasuryprime](https://boards.greenhouse.io/treasuryprime) |
 | [Treble Spot](https://trebleswap.com) | bamboohr | [https://treble.bamboohr.com/careers](https://treble.bamboohr.com/careers) |
+| Trellis AI | lever | [https://jobs.lever.co/trellis](https://jobs.lever.co/trellis) |
 | Trellis Law | lever | [https://jobs.lever.co/trellis](https://jobs.lever.co/trellis) |
 | TRIGGOL SEARCH PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202320425N](https://www.mycareersfuture.gov.sg/search?uen=202320425N) |
 | Trilitech | ashby | [https://jobs.ashbyhq.com/trilitech](https://jobs.ashbyhq.com/trilitech) |
@@ -1878,6 +1883,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | UMELIFE (SINGAPORE) PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202326799H](https://www.mycareersfuture.gov.sg/search?uen=202326799H) |
 | UNABIZ PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201612251Z](https://www.mycareersfuture.gov.sg/search?uen=201612251Z) |
 | Unchained Capital | greenhouse | [https://boards.greenhouse.io/unchainedlabs](https://boards.greenhouse.io/unchainedlabs) |
+| Unify | ashby | [https://jobs.ashbyhq.com/unify](https://jobs.ashbyhq.com/unify) |
 | [Union Protocol](https://union.finance) | ashby | [https://jobs.ashbyhq.com/union](https://jobs.ashbyhq.com/union) |
 | Uniswap | ashby | [https://jobs.ashbyhq.com/uniswap](https://jobs.ashbyhq.com/uniswap) |
 | Uniswap Foundation | ashby | [https://jobs.ashbyhq.com/uniswap](https://jobs.ashbyhq.com/uniswap) |
@@ -2009,6 +2015,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | ZestyAI | greenhouse | [https://boards.greenhouse.io/zestyai](https://boards.greenhouse.io/zestyai) |
 | ZetaChain | lever | [https://jobs.lever.co/zeta](https://jobs.lever.co/zeta) |
 | Zilliz | lever | [https://jobs.lever.co/zilliz](https://jobs.lever.co/zilliz) |
+| Zip | ashby | [https://jobs.ashbyhq.com/zip](https://jobs.ashbyhq.com/zip) |
 | ZIP SECURITY SERVICE PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201006821N](https://www.mycareersfuture.gov.sg/search?uen=201006821N) |
 | Zipline | greenhouse | [https://boards.greenhouse.io/flyzipline](https://boards.greenhouse.io/flyzipline) |
 | [Zircuit](https://www.zircuit.com/) | ashby | [https://jobs.ashbyhq.com/zircuit](https://jobs.ashbyhq.com/zircuit) |
