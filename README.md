@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-06
+**Last updated:** 2026-06-07
 
-**Total companies:** 9900
+**Total companies:** 9899
 
 ## Protocols
 
@@ -1484,7 +1484,6 @@ A curated list of companies and their job boards, automatically updated daily.
 | By Weddings Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202404548Z](https://www.mycareersfuture.gov.sg/search?uen=202404548Z) |
 | By: Dan & Co Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201943872E](https://www.mycareersfuture.gov.sg/search?uen=201943872E) |
 | [Bybit](https://www.bybit.com) | custom | [custom/bybit](custom/bybit) |
-| [Bybit Staked SOL](https://www.bybit.com/en/web3/staking/BybitSOL) | greenhouse | [https://boards.greenhouse.io/bybit](https://boards.greenhouse.io/bybit) |
 | Byd (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201409518W](https://www.mycareersfuture.gov.sg/search?uen=201409518W) |
 | Byd By 1826 (Suntec) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202311736Z](https://www.mycareersfuture.gov.sg/search?uen=202311736Z) |
 | [BYDFi](https://www.bydfi.com/en) | greenhouse | [https://boards.greenhouse.io/byd](https://boards.greenhouse.io/byd) |
@@ -2294,8 +2293,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Db & B Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199608199D](https://www.mycareersfuture.gov.sg/search?uen=199608199D) |
 | Db Golf Training & Performance Center Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202037520R](https://www.mycareersfuture.gov.sg/search?uen=202037520R) |
 | DBS Bank Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196800306E](https://www.mycareersfuture.gov.sg/search?uen=196800306E) |
-| [dbt Labs](https://getdbt.com/) | teamtailor | [https://dbt.teamtailor.com/jobs](https://dbt.teamtailor.com/jobs) |
 | Dbt Labs | greenhouse | [https://boards.greenhouse.io/dbtlabsinc](https://boards.greenhouse.io/dbtlabsinc) |
+| [dbt Labs](https://getdbt.com/) | teamtailor | [https://dbt.teamtailor.com/jobs](https://dbt.teamtailor.com/jobs) |
 | Dc Byte Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202119270R](https://www.mycareersfuture.gov.sg/search?uen=202119270R) |
 | Dc Digital Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202223820D](https://www.mycareersfuture.gov.sg/search?uen=202223820D) |
 | Dch Auriga Singapore | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=52833730X](https://www.mycareersfuture.gov.sg/search?uen=52833730X) |
@@ -3405,8 +3404,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Geto Global Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201602114H](https://www.mycareersfuture.gov.sg/search?uen=201602114H) |
 | Getronics Solutions (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196600289W](https://www.mycareersfuture.gov.sg/search?uen=196600289W) |
 | Gh Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206456R](https://www.mycareersfuture.gov.sg/search?uen=199206456R) |
-| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
+| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | Gic Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198102265N](https://www.mycareersfuture.gov.sg/search?uen=198102265N) |
 | Gientech Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199000991Z](https://www.mycareersfuture.gov.sg/search?uen=199000991Z) |
 | Gig International School Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201000716D](https://www.mycareersfuture.gov.sg/search?uen=201000716D) |
@@ -5354,7 +5353,6 @@ A curated list of companies and their job boards, automatically updated daily.
 | Marina Bay Sands PTE. LTD. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200507292R](https://www.mycareersfuture.gov.sg/search?uen=200507292R) |
 | Marina Offshore Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198904464N](https://www.mycareersfuture.gov.sg/search?uen=198904464N) |
 | Marina Technology And Construction Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199105516Z](https://www.mycareersfuture.gov.sg/search?uen=199105516Z) |
-| [Marinade Liquid Staking](https://marinade.finance) | custom | [custom/solana-jobs](custom/solana-jobs) |
 | Marine Care Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201313874K](https://www.mycareersfuture.gov.sg/search?uen=201313874K) |
 | Marinteknik Shipbuilders (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198401319D](https://www.mycareersfuture.gov.sg/search?uen=198401319D) |
 | Maritec Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199906554N](https://www.mycareersfuture.gov.sg/search?uen=199906554N) |
@@ -7996,6 +7994,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Sola](https://sola.ai/) | ashby | [https://jobs.ashbyhq.com/sola](https://jobs.ashbyhq.com/sola) |
 | Solana | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | [Solana Foundation](https://solana.org/) | ashby | [https://jobs.ashbyhq.com/solana foundation](https://jobs.ashbyhq.com/solana foundation) |
+| Solana Jobs | getro | [getro/858](getro/858) |
 | [Solana Labs](https://solana.com/) | ashby | [https://jobs.ashbyhq.com/solanalabs](https://jobs.ashbyhq.com/solanalabs) |
 | Solar Era Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201915225E](https://www.mycareersfuture.gov.sg/search?uen=201915225E) |
 | Solar Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202243371C](https://www.mycareersfuture.gov.sg/search?uen=202243371C) |
