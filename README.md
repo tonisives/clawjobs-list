@@ -4,7 +4,7 @@ A curated list of companies and their job boards, automatically updated daily.
 
 **Last updated:** 2026-06-15
 
-**Total companies:** 9916
+**Total companies:** 9918
 
 ## Protocols
 
@@ -3163,8 +3163,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Floor Melody Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201904709C](https://www.mycareersfuture.gov.sg/search?uen=201904709C) |
 | FloQast | lever | [https://jobs.lever.co/floqast](https://jobs.lever.co/floqast) |
 | Flourish | greenhouse | [https://boards.greenhouse.io/flourish](https://boards.greenhouse.io/flourish) |
-| [Flow](https://flow.life/) | lever | [https://jobs.lever.co/flowlife](https://jobs.lever.co/flowlife) |
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
+| [Flow](https://flow.life/) | lever | [https://jobs.lever.co/flowlife](https://jobs.lever.co/flowlife) |
 | Flow Global Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202551961M](https://www.mycareersfuture.gov.sg/search?uen=202551961M) |
 | Flowcode | greenhouse | [https://boards.greenhouse.io/flowcode](https://boards.greenhouse.io/flowcode) |
 | Flowserve Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=197800169K](https://www.mycareersfuture.gov.sg/search?uen=197800169K) |
@@ -3410,8 +3410,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Geto Global Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201602114H](https://www.mycareersfuture.gov.sg/search?uen=201602114H) |
 | Getronics Solutions (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196600289W](https://www.mycareersfuture.gov.sg/search?uen=196600289W) |
 | Gh Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206456R](https://www.mycareersfuture.gov.sg/search?uen=199206456R) |
-| [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
 | [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
+| [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
 | Gic Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198102265N](https://www.mycareersfuture.gov.sg/search?uen=198102265N) |
 | Gientech Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199000991Z](https://www.mycareersfuture.gov.sg/search?uen=199000991Z) |
 | Gig International School Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201000716D](https://www.mycareersfuture.gov.sg/search?uen=201000716D) |
@@ -6083,6 +6083,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Nov Rig Solutions Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=197802969Z](https://www.mycareersfuture.gov.sg/search?uen=197802969Z) |
 | Nova Credit | greenhouse | [https://boards.greenhouse.io/novacredit](https://boards.greenhouse.io/novacredit) |
 | Nova Intelligence | ashby | [https://jobs.ashbyhq.com/novaintelligence](https://jobs.ashbyhq.com/novaintelligence) |
+| [Nova Labs](https://nova.xyz/) | bamboohr | [https://nova.bamboohr.com/careers](https://nova.bamboohr.com/careers) |
 | Nova Measuring Instruments Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202425455W](https://www.mycareersfuture.gov.sg/search?uen=202425455W) |
 | Nova Prospect Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202216374H](https://www.mycareersfuture.gov.sg/search?uen=202216374H) |
 | Nova Talent Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202439508E](https://www.mycareersfuture.gov.sg/search?uen=202439508E) |
@@ -7124,8 +7125,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Relace](https://relace.ai/) | ashby | [https://jobs.ashbyhq.com/relace](https://jobs.ashbyhq.com/relace) |
 | Relativity Space | greenhouse | [https://boards.greenhouse.io/relativity](https://boards.greenhouse.io/relativity) |
 | Relax One Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202209798G](https://www.mycareersfuture.gov.sg/search?uen=202209798G) |
-| Relay | ashby | [https://jobs.ashbyhq.com/relayfi](https://jobs.ashbyhq.com/relayfi) |
 | Relay | getro | [getro/relay-2](getro/relay-2) |
+| Relay | ashby | [https://jobs.ashbyhq.com/relayfi](https://jobs.ashbyhq.com/relayfi) |
 | [Relay.app](https://relay.app/) | ashby | [https://jobs.ashbyhq.com/relay](https://jobs.ashbyhq.com/relay) |
 | Relevance AI | ashby | [https://jobs.ashbyhq.com/relevanceai](https://jobs.ashbyhq.com/relevanceai) |
 | Relevance Lab Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201115096G](https://www.mycareersfuture.gov.sg/search?uen=201115096G) |
@@ -8228,6 +8229,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Startale | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | Startale Group Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202300228C](https://www.mycareersfuture.gov.sg/search?uen=202300228C) |
 | Startin Point Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200403536W](https://www.mycareersfuture.gov.sg/search?uen=200403536W) |
+| [StartPlaying](https://startplaying.games/) | ashby | [https://jobs.ashbyhq.com/startplaying](https://jobs.ashbyhq.com/startplaying) |
 | Starview Technologies Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202131644E](https://www.mycareersfuture.gov.sg/search?uen=202131644E) |
 | Starvision Information Technology Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199603116G](https://www.mycareersfuture.gov.sg/search?uen=199603116G) |
 | Starwood Asia Pacific Hotels & Resorts Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199507702Z](https://www.mycareersfuture.gov.sg/search?uen=199507702Z) |
