@@ -2,7 +2,7 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-23
+**Last updated:** 2026-06-24
 
 **Total companies:** 9933
 
@@ -7134,8 +7134,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Relace](https://relace.ai/) | ashby | [https://jobs.ashbyhq.com/relace](https://jobs.ashbyhq.com/relace) |
 | Relativity Space | greenhouse | [https://boards.greenhouse.io/relativity](https://boards.greenhouse.io/relativity) |
 | Relax One Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202209798G](https://www.mycareersfuture.gov.sg/search?uen=202209798G) |
-| Relay | ashby | [https://jobs.ashbyhq.com/relayfi](https://jobs.ashbyhq.com/relayfi) |
 | Relay | getro | [getro/relay-2](getro/relay-2) |
+| Relay | ashby | [https://jobs.ashbyhq.com/relayfi](https://jobs.ashbyhq.com/relayfi) |
 | [Relay.app](https://relay.app/) | ashby | [https://jobs.ashbyhq.com/relay](https://jobs.ashbyhq.com/relay) |
 | Relevance AI | ashby | [https://jobs.ashbyhq.com/relevanceai](https://jobs.ashbyhq.com/relevanceai) |
 | Relevance Lab Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201115096G](https://www.mycareersfuture.gov.sg/search?uen=201115096G) |
