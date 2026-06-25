@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-24
+**Last updated:** 2026-06-25
 
-**Total companies:** 9933
+**Total companies:** 9935
 
 ## Protocols
 
@@ -421,8 +421,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Albatec Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199905249R](https://www.mycareersfuture.gov.sg/search?uen=199905249R) |
 | Albedo | greenhouse | [https://boards.greenhouse.io/albedo](https://boards.greenhouse.io/albedo) |
 | Alc Technologies Sg Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202433385G](https://www.mycareersfuture.gov.sg/search?uen=202433385G) |
-| Alchemy | greenhouse | [https://boards.greenhouse.io/alchemy](https://boards.greenhouse.io/alchemy) |
 | [Alchemy](https://alchemyhealth.com/) | ashby | [https://jobs.ashbyhq.com/alchemy](https://jobs.ashbyhq.com/alchemy) |
+| Alchemy | greenhouse | [https://boards.greenhouse.io/alchemy](https://boards.greenhouse.io/alchemy) |
 | Alco Automation Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199405472H](https://www.mycareersfuture.gov.sg/search?uen=199405472H) |
 | Alco Sunshade Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200910284D](https://www.mycareersfuture.gov.sg/search?uen=200910284D) |
 | Alcon Singapore Manufacturing Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200804835C](https://www.mycareersfuture.gov.sg/search?uen=200804835C) |
@@ -3419,8 +3419,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Geto Global Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201602114H](https://www.mycareersfuture.gov.sg/search?uen=201602114H) |
 | Getronics Solutions (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196600289W](https://www.mycareersfuture.gov.sg/search?uen=196600289W) |
 | Gh Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206456R](https://www.mycareersfuture.gov.sg/search?uen=199206456R) |
-| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
+| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | Gic Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198102265N](https://www.mycareersfuture.gov.sg/search?uen=198102265N) |
 | Gientech Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199000991Z](https://www.mycareersfuture.gov.sg/search?uen=199000991Z) |
 | Gig International School Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201000716D](https://www.mycareersfuture.gov.sg/search?uen=201000716D) |
@@ -5055,6 +5055,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Leytron Technology Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206388C](https://www.mycareersfuture.gov.sg/search?uen=199206388C) |
 | Lf Logistics Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200000194K](https://www.mycareersfuture.gov.sg/search?uen=200000194K) |
 | LG CNS CO., LTD. Singapore Branch | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T23FC0074G](https://www.mycareersfuture.gov.sg/search?uen=T23FC0074G) |
+| [LG Electronics](https://www.lg.com/global/careers) | greenhouse | [https://boards.greenhouse.io/lgelectronics](https://boards.greenhouse.io/lgelectronics) |
 | Lga Telecom Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200001459N](https://www.mycareersfuture.gov.sg/search?uen=200001459N) |
 | Lgt Bank (Singapore) Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200200473E](https://www.mycareersfuture.gov.sg/search?uen=200200473E) |
 | Lh Grande Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201836703Z](https://www.mycareersfuture.gov.sg/search?uen=201836703Z) |
@@ -8785,6 +8786,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | The Management Corporation - Strata Title Plan No. 3752 | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T12MC0009F](https://www.mycareersfuture.gov.sg/search?uen=T12MC0009F) |
 | The National Kidney Foundation | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200104750M](https://www.mycareersfuture.gov.sg/search?uen=200104750M) |
 | The Nature Spa Lynn Aesthetic Private Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201930970K](https://www.mycareersfuture.gov.sg/search?uen=201930970K) |
+| [The New York Times](https://nytimes.com) | greenhouse | [https://boards.greenhouse.io/thenewyorktimes](https://boards.greenhouse.io/thenewyorktimes) |
 | The Ngee Ann Kongsi | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=S88CC0609E](https://www.mycareersfuture.gov.sg/search?uen=S88CC0609E) |
 | The Northern Trust Company | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=S96FC5148J](https://www.mycareersfuture.gov.sg/search?uen=S96FC5148J) |
 | The One Percent Sg Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202233150W](https://www.mycareersfuture.gov.sg/search?uen=202233150W) |
