@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-01
+**Last updated:** 2026-07-02
 
-**Total companies:** 10099
+**Total companies:** 10120
 
 ## Protocols
 
@@ -426,11 +426,12 @@ A curated list of companies and their job boards, automatically updated daily.
 | Albatec Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199905249R](https://www.mycareersfuture.gov.sg/search?uen=199905249R) |
 | Albedo | greenhouse | [https://boards.greenhouse.io/albedo](https://boards.greenhouse.io/albedo) |
 | Alc Technologies Sg Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202433385G](https://www.mycareersfuture.gov.sg/search?uen=202433385G) |
-| [Alchemy](https://alchemyhealth.com/) | ashby | [https://jobs.ashbyhq.com/alchemy](https://jobs.ashbyhq.com/alchemy) |
 | Alchemy | greenhouse | [https://boards.greenhouse.io/alchemy](https://boards.greenhouse.io/alchemy) |
+| [Alchemy](https://alchemyhealth.com/) | ashby | [https://jobs.ashbyhq.com/alchemy](https://jobs.ashbyhq.com/alchemy) |
 | Alco Automation Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199405472H](https://www.mycareersfuture.gov.sg/search?uen=199405472H) |
 | Alco Sunshade Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200910284D](https://www.mycareersfuture.gov.sg/search?uen=200910284D) |
 | Alcon Singapore Manufacturing Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200804835C](https://www.mycareersfuture.gov.sg/search?uen=200804835C) |
+| [Alcor Exchange](https://alcor.exchange) | bamboohr | [https://alcor.bamboohr.com/careers](https://alcor.bamboohr.com/careers) |
 | Alcotec Precision Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199901162E](https://www.mycareersfuture.gov.sg/search?uen=199901162E) |
 | Alec Lance. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53515275B](https://www.mycareersfuture.gov.sg/search?uen=53515275B) |
 | Aleph Alpha | ashby | [https://jobs.ashbyhq.com/alephalpha](https://jobs.ashbyhq.com/alephalpha) |
@@ -749,6 +750,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Ares Collective Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202621418C](https://www.mycareersfuture.gov.sg/search?uen=202621418C) |
 | Arf (Asia Pacific) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200601242W](https://www.mycareersfuture.gov.sg/search?uen=200601242W) |
 | Argentra Solutions Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201404593D](https://www.mycareersfuture.gov.sg/search?uen=201404593D) |
+| Argo Finance | personio | [personio/argo](personio/argo) |
 | Argus Software (Asia) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199907850K](https://www.mycareersfuture.gov.sg/search?uen=199907850K) |
 | Argyll Scott Consulting Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201803664H](https://www.mycareersfuture.gov.sg/search?uen=201803664H) |
 | Arianetech Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200108187E](https://www.mycareersfuture.gov.sg/search?uen=200108187E) |
@@ -963,6 +965,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Augment Code | greenhouse | [https://boards.greenhouse.io/augmentcomputing](https://boards.greenhouse.io/augmentcomputing) |
 | Augmentus Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201936944N](https://www.mycareersfuture.gov.sg/search?uen=201936944N) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
+| Augury Finance | greenhouse | [https://boards.greenhouse.io/augury](https://boards.greenhouse.io/augury) |
 | August Consulting Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200202142E](https://www.mycareersfuture.gov.sg/search?uen=200202142E) |
 | Augustus | ashby | [https://jobs.ashbyhq.com/augustus](https://jobs.ashbyhq.com/augustus) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
@@ -1044,6 +1047,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Avn Digital Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201923883M](https://www.mycareersfuture.gov.sg/search?uen=201923883M) |
 | Avolt Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202423274K](https://www.mycareersfuture.gov.sg/search?uen=202423274K) |
 | Avon Industries Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200604632M](https://www.mycareersfuture.gov.sg/search?uen=200604632M) |
+| [Avon MegaVault](https://www.avon.xyz/) | bamboohr | [https://avon.bamboohr.com/careers](https://avon.bamboohr.com/careers) |
 | Avon Technologies Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199605473G](https://www.mycareersfuture.gov.sg/search?uen=199605473G) |
 | Avotis Security Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202411187K](https://www.mycareersfuture.gov.sg/search?uen=202411187K) |
 | Avrio Wealth Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201820636Z](https://www.mycareersfuture.gov.sg/search?uen=201820636Z) |
@@ -1827,6 +1831,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Chl Construction Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200002003D](https://www.mycareersfuture.gov.sg/search?uen=200002003D) |
 | Chloride Batteries S. E. Asia Pte. Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=195800125E](https://www.mycareersfuture.gov.sg/search?uen=195800125E) |
 | Cho Ship Management Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=197700501C](https://www.mycareersfuture.gov.sg/search?uen=197700501C) |
+| [Choice Exchange](https://choice.exchange) | personio | [personio/choice](personio/choice) |
 | Chong & Lee Consulting Engineers Llp | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T16LL1523F](https://www.mycareersfuture.gov.sg/search?uen=T16LL1523F) |
 | Chong Fong Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199408798M](https://www.mycareersfuture.gov.sg/search?uen=199408798M) |
 | Choose 2 Rent Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202504510W](https://www.mycareersfuture.gov.sg/search?uen=202504510W) |
@@ -2409,6 +2414,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Delulu Solulu Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202538238G](https://www.mycareersfuture.gov.sg/search?uen=202538238G) |
 | Dematic Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200517085E](https://www.mycareersfuture.gov.sg/search?uen=200517085E) |
 | Dementia Singapore Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202111519K](https://www.mycareersfuture.gov.sg/search?uen=202111519K) |
+| Demeter | bamboohr | [https://demeter.bamboohr.com/careers](https://demeter.bamboohr.com/careers) |
+| [Demex Perp](https://app.dem.exchange/) | personio | [personio/demex](personio/demex) |
 | Den Hartogh Asia Pacific Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201132239Z](https://www.mycareersfuture.gov.sg/search?uen=201132239Z) |
 | Denka Advantech Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198905724D](https://www.mycareersfuture.gov.sg/search?uen=198905724D) |
 | Denniston International Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201230390D](https://www.mycareersfuture.gov.sg/search?uen=201230390D) |
@@ -2456,6 +2463,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Dialect | getro | [getro/dialect](getro/dialect) |
 | [Dialpad](https://dialpad.com/) | greenhouse | [https://boards.greenhouse.io/dialpad](https://boards.greenhouse.io/dialpad) |
 | Diamond Aviation Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201128763E](https://www.mycareersfuture.gov.sg/search?uen=201128763E) |
+| [Diamondswap](https://diamondswap.com/exchange) | teamtailor | [https://diamond.teamtailor.com/jobs](https://diamond.teamtailor.com/jobs) |
 | Dian Xiao Er Group Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200207476M](https://www.mycareersfuture.gov.sg/search?uen=200207476M) |
 | Diankai Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201543834C](https://www.mycareersfuture.gov.sg/search?uen=201543834C) |
 | Dickson Auto Care Centre Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201921404K](https://www.mycareersfuture.gov.sg/search?uen=201921404K) |
@@ -3487,8 +3495,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Geto Global Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201602114H](https://www.mycareersfuture.gov.sg/search?uen=201602114H) |
 | Getronics Solutions (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196600289W](https://www.mycareersfuture.gov.sg/search?uen=196600289W) |
 | Gh Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206456R](https://www.mycareersfuture.gov.sg/search?uen=199206456R) |
-| [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
 | [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
+| [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
 | Gic Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198102265N](https://www.mycareersfuture.gov.sg/search?uen=198102265N) |
 | Gientech Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199000991Z](https://www.mycareersfuture.gov.sg/search?uen=199000991Z) |
 | Gig International School Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201000716D](https://www.mycareersfuture.gov.sg/search?uen=201000716D) |
@@ -3655,6 +3663,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Graphite](https://graphite.dev/) | ashby | [https://jobs.ashbyhq.com/graphitehq](https://jobs.ashbyhq.com/graphitehq) |
 | Grass | getro | [getro/grass](getro/grass) |
 | Graticule Asset Management Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201407724D](https://www.mycareersfuture.gov.sg/search?uen=201407724D) |
+| Gravita Protocol | teamtailor | [https://gravita.teamtailor.com/jobs](https://gravita.teamtailor.com/jobs) |
 | Gravitas Capital Group Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201914762Z](https://www.mycareersfuture.gov.sg/search?uen=201914762Z) |
 | Gravitas Recruitment Group (Sg) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201411749D](https://www.mycareersfuture.gov.sg/search?uen=201411749D) |
 | Graviton Research Capital (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201815138M](https://www.mycareersfuture.gov.sg/search?uen=201815138M) |
@@ -4044,6 +4053,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Horizon Digital Media Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202000453D](https://www.mycareersfuture.gov.sg/search?uen=202000453D) |
 | Horizon Global Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201917618R](https://www.mycareersfuture.gov.sg/search?uen=201917618R) |
 | Horizon Manpower Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202107267H](https://www.mycareersfuture.gov.sg/search?uen=202107267H) |
+| Horizon Protocol | lever | [https://jobs.lever.co/horizon](https://jobs.lever.co/horizon) |
 | Horizon Quantum Computing Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201802755E](https://www.mycareersfuture.gov.sg/search?uen=201802755E) |
 | Horizon Singapore Terminals Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200503050H](https://www.mycareersfuture.gov.sg/search?uen=200503050H) |
 | Horizon Software Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201607707W](https://www.mycareersfuture.gov.sg/search?uen=201607707W) |
@@ -5157,6 +5167,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Libeara (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202302950G](https://www.mycareersfuture.gov.sg/search?uen=202302950G) |
 | Lico Resources Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201322494Z](https://www.mycareersfuture.gov.sg/search?uen=201322494Z) |
 | [Lido](https://lido.fi/) | ashby | [https://jobs.ashbyhq.com/Lido.fi](https://jobs.ashbyhq.com/Lido.fi) |
+| [Lido Impact Staking](https://impactstake.com) | bamboohr | [https://lido.bamboohr.com/careers](https://lido.bamboohr.com/careers) |
 | Lido Reflexology | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53512291L](https://www.mycareersfuture.gov.sg/search?uen=53512291L) |
 | Lie Yang Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202217190W](https://www.mycareersfuture.gov.sg/search?uen=202217190W) |
 | Liebherr-Singapore Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198902446W](https://www.mycareersfuture.gov.sg/search?uen=198902446W) |
@@ -5797,6 +5808,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Mobileye | lever | [https://jobs.lever.co/mobileye](https://jobs.lever.co/mobileye) |
 | Mobili Furnishing Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202128728N](https://www.mycareersfuture.gov.sg/search?uen=202128728N) |
 | Mobili Living Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201512387N](https://www.mycareersfuture.gov.sg/search?uen=201512387N) |
+| Mobius Money | greenhouse | [https://boards.greenhouse.io/mobius](https://boards.greenhouse.io/mobius) |
 | Mochi Health | greenhouse | [https://boards.greenhouse.io/mochihealth](https://boards.greenhouse.io/mochihealth) |
 | Mod Management Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202312347C](https://www.mycareersfuture.gov.sg/search?uen=202312347C) |
 | Moda Paolo Footwear Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202225796R](https://www.mycareersfuture.gov.sg/search?uen=202225796R) |
@@ -7317,8 +7329,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Rhb Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200715152D](https://www.mycareersfuture.gov.sg/search?uen=200715152D) |
 | Rheinmetall Electronics Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201427420M](https://www.mycareersfuture.gov.sg/search?uen=201427420M) |
 | Rheinmetall Naval Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199407903R](https://www.mycareersfuture.gov.sg/search?uen=199407903R) |
-| [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
 | [Rhino.fi](https://rhino.fi) | teamtailor | [https://rhino.teamtailor.com/jobs](https://rhino.teamtailor.com/jobs) |
+| [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
 | Rhm Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201128887H](https://www.mycareersfuture.gov.sg/search?uen=201128887H) |
 | [Rho X](https://x.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | Rhombus Power | greenhouse | [https://boards.greenhouse.io/rhombuspower](https://boards.greenhouse.io/rhombuspower) |
@@ -8175,6 +8187,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Solid Cool Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201721683D](https://www.mycareersfuture.gov.sg/search?uen=201721683D) |
 | Solid Decoration Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201540842D](https://www.mycareersfuture.gov.sg/search?uen=201540842D) |
 | Solid M&z Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202101296W](https://www.mycareersfuture.gov.sg/search?uen=202101296W) |
+| [Solid Yield](https://solid.xyz) | teamtailor | [https://solidio.teamtailor.com/jobs](https://solidio.teamtailor.com/jobs) |
 | Solidtrack & Associates Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201002527K](https://www.mycareersfuture.gov.sg/search?uen=201002527K) |
 | Solimech Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201438226D](https://www.mycareersfuture.gov.sg/search?uen=201438226D) |
 | [Solstice](https://solstice.finance/) | ashby | [https://jobs.ashbyhq.com/solstice](https://jobs.ashbyhq.com/solstice) |
@@ -8254,6 +8267,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Sport Excellence Singapore (Spexsg) Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200210728W](https://www.mycareersfuture.gov.sg/search?uen=200210728W) |
 | Sport Plus Media Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202131810M](https://www.mycareersfuture.gov.sg/search?uen=202131810M) |
 | Sportsin Orthopaedic Clinic Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201729843M](https://www.mycareersfuture.gov.sg/search?uen=201729843M) |
+| [SPOT Cash](https://www.spot.cash) | teamtailor | [https://spot.teamtailor.com/jobs](https://spot.teamtailor.com/jobs) |
 | SpotDraft | ashby | [https://jobs.ashbyhq.com/spotdraft](https://jobs.ashbyhq.com/spotdraft) |
 | Spotify Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201133483D](https://www.mycareersfuture.gov.sg/search?uen=201133483D) |
 | [SpotOn](https://spoton.com/) | ashby | [https://jobs.ashbyhq.com/spoton](https://jobs.ashbyhq.com/spoton) |
@@ -8853,6 +8867,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Tenon Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201115824M](https://www.mycareersfuture.gov.sg/search?uen=201115824M) |
 | Tenseven Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201702060W](https://www.mycareersfuture.gov.sg/search?uen=201702060W) |
 | Tensho Marketing | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53510948B](https://www.mycareersfuture.gov.sg/search?uen=53510948B) |
+| [Tensor](https://www.tensor.trade/) | bamboohr | [https://tensorlabs.bamboohr.com/careers](https://tensorlabs.bamboohr.com/careers) |
 | Tenstorrent | greenhouse | [https://boards.greenhouse.io/tenstorrent](https://boards.greenhouse.io/tenstorrent) |
 | Teo Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201601825W](https://www.mycareersfuture.gov.sg/search?uen=201601825W) |
 | Teradyne (Asia) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200311819K](https://www.mycareersfuture.gov.sg/search?uen=200311819K) |
@@ -9050,6 +9065,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Together AI | greenhouse | [https://boards.greenhouse.io/togetherai](https://boards.greenhouse.io/togetherai) |
 | Toh Hock Guan Electrical Contractor & Trading | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=43392400D](https://www.mycareersfuture.gov.sg/search?uen=43392400D) |
 | Tokeninsight Sg Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202226515K](https://www.mycareersfuture.gov.sg/search?uen=202226515K) |
+| [TokenLabs](https://tokenlabs.network) | bamboohr | [https://token.bamboohr.com/careers](https://token.bamboohr.com/careers) |
 | Tokio Marine Insurance Singapore Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=192300014M](https://www.mycareersfuture.gov.sg/search?uen=192300014M) |
 | Tokio Marine Life Insurance Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=194800055D](https://www.mycareersfuture.gov.sg/search?uen=194800055D) |
 | Tokka Labs Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202245189E](https://www.mycareersfuture.gov.sg/search?uen=202245189E) |
@@ -9294,6 +9310,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Ultimate | greenhouse | [https://boards.greenhouse.io/ultimate](https://boards.greenhouse.io/ultimate) |
 | Ultimatepower Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201424677M](https://www.mycareersfuture.gov.sg/search?uen=201424677M) |
 | Uma Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202224283C](https://www.mycareersfuture.gov.sg/search?uen=202224283C) |
+| [Umami Finance](https://umami.finance/) | bamboohr | [https://umami.bamboohr.com/careers](https://umami.bamboohr.com/careers) |
 | Umelife (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202326799H](https://www.mycareersfuture.gov.sg/search?uen=202326799H) |
 | Ums Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199604562C](https://www.mycareersfuture.gov.sg/search?uen=199604562C) |
 | Unabiz Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201612251Z](https://www.mycareersfuture.gov.sg/search?uen=201612251Z) |
@@ -9454,6 +9471,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Vast.ai | greenhouse | [https://boards.greenhouse.io/vastai](https://boards.greenhouse.io/vastai) |
 | Vat Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200712409K](https://www.mycareersfuture.gov.sg/search?uen=200712409K) |
 | Vault Personnel Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202026390C](https://www.mycareersfuture.gov.sg/search?uen=202026390C) |
+| Vaultedge | cutshort | [https://cutshort.io/company/vaultedge](https://cutshort.io/company/vaultedge) |
 | Vce Consultants & Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202338448C](https://www.mycareersfuture.gov.sg/search?uen=202338448C) |
 | Vck-Vanuatu Air Singapore Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199501539G](https://www.mycareersfuture.gov.sg/search?uen=199501539G) |
 | Vdl Enabling Technologies Group (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200612788C](https://www.mycareersfuture.gov.sg/search?uen=200612788C) |
@@ -9474,6 +9492,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Velora | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
 | Velss Corporation Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201027290W](https://www.mycareersfuture.gov.sg/search?uen=201027290W) |
 | Veltiston Group | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53181408D](https://www.mycareersfuture.gov.sg/search?uen=53181408D) |
+| [Velvet V2](https://dapp.velvet.capital/Referred/6956901b440d4fc522b2eb7b) | teamtailor | [https://velvet.teamtailor.com/jobs](https://velvet.teamtailor.com/jobs) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
 | Vengineers Consultancy Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202003237C](https://www.mycareersfuture.gov.sg/search?uen=202003237C) |
 | Venti Technologies Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202026373H](https://www.mycareersfuture.gov.sg/search?uen=202026373H) |
@@ -10051,6 +10070,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Zeno Communications Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201211732G](https://www.mycareersfuture.gov.sg/search?uen=201211732G) |
 | Zeno Exhibition Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202238640Z](https://www.mycareersfuture.gov.sg/search?uen=202238640Z) |
 | Zenova Steel Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202350482M](https://www.mycareersfuture.gov.sg/search?uen=202350482M) |
+| [Zentra Finance](https://zentra.finance/) | teamtailor | [https://zentra.teamtailor.com/jobs](https://zentra.teamtailor.com/jobs) |
 | Zenvora Nova Enterprise | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53523614W](https://www.mycareersfuture.gov.sg/search?uen=53523614W) |
 | Zephyr Consultancy Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200604518W](https://www.mycareersfuture.gov.sg/search?uen=200604518W) |
 | Zerion | bamboohr | [https://zerion.bamboohr.com/careers](https://zerion.bamboohr.com/careers) |
@@ -10102,6 +10122,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Zuhlke Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201706059H](https://www.mycareersfuture.gov.sg/search?uen=201706059H) |
 | Zuler Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202120309K](https://www.mycareersfuture.gov.sg/search?uen=202120309K) |
 | [Zuma](https://getzuma.com/) | lever | [https://jobs.lever.co/getzuma](https://jobs.lever.co/getzuma) |
+| [zuno](https://zunodex.xyz) | bamboohr | [https://zuno.bamboohr.com/careers](https://zuno.bamboohr.com/careers) |
 | Zuora | greenhouse | [https://boards.greenhouse.io/zuora](https://boards.greenhouse.io/zuora) |
 | ZURICH INSURANCE COMPANY LTD (Singapore Branch) | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T08FC7171K](https://www.mycareersfuture.gov.sg/search?uen=T08FC7171K) |
 | [Zus Health](https://zushealth.com/) | lever | [https://jobs.lever.co/zushealth](https://jobs.lever.co/zushealth) |
