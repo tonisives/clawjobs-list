@@ -4540,7 +4540,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Jalandhar Sc Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201618471M](https://www.mycareersfuture.gov.sg/search?uen=201618471M) |
 | Jangho Curtain Wall Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200714080H](https://www.mycareersfuture.gov.sg/search?uen=200714080H) |
 | January | ashby | [https://jobs.ashbyhq.com/january](https://jobs.ashbyhq.com/january) |
-| [Japan Dev](https://japan-dev.com/jobs) | japan-dev | [japan-dev/jobs](japan-dev/jobs) |
+| [Japan Dev](https://japan-dev.com/jobs) | japan-dev | [https://japan-dev.com/jobs](https://japan-dev.com/jobs) |
 | Japan Foods Bridge Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201706735C](https://www.mycareersfuture.gov.sg/search?uen=201706735C) |
 | Japan Foods Enterprises Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200506192E](https://www.mycareersfuture.gov.sg/search?uen=200506192E) |
 | Japan Ipl Express Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201323568R](https://www.mycareersfuture.gov.sg/search?uen=201323568R) |
@@ -9073,7 +9073,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Toku Kissho (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200709231H](https://www.mycareersfuture.gov.sg/search?uen=200709231H) |
 | Toku Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201734881W](https://www.mycareersfuture.gov.sg/search?uen=201734881W) |
 | Tokyo Century Leasing (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=197901535G](https://www.mycareersfuture.gov.sg/search?uen=197901535G) |
-| [TokyoDev](https://www.tokyodev.com/jobs) | tokyodev | [tokyodev/jobs](tokyodev/jobs) |
+| [TokyoDev](https://www.tokyodev.com/jobs) | tokyodev | [https://www.tokyodev.com/jobs](https://www.tokyodev.com/jobs) |
 | [Toma](https://www.toma.com/) | ashby | [https://jobs.ashbyhq.com/toma](https://jobs.ashbyhq.com/toma) |
 | Tomas Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200401839C](https://www.mycareersfuture.gov.sg/search?uen=200401839C) |
 | TomNext | getro | [getro/tomnext](getro/tomnext) |
