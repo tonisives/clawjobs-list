@@ -2,7 +2,7 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-07
 
 **Total companies:** 10339
 
@@ -3304,8 +3304,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Floor Melody Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201904709C](https://www.mycareersfuture.gov.sg/search?uen=201904709C) |
 | FloQast | lever | [https://jobs.lever.co/floqast](https://jobs.lever.co/floqast) |
 | Flourish | greenhouse | [https://boards.greenhouse.io/flourish](https://boards.greenhouse.io/flourish) |
-| Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
 | [Flow](https://flow.life/) | lever | [https://jobs.lever.co/flowlife](https://jobs.lever.co/flowlife) |
+| Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
 | [Flow Blockchain](https://flow.com/) | personio | [personio/flow](personio/flow) |
 | Flow Global Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202551961M](https://www.mycareersfuture.gov.sg/search?uen=202551961M) |
 | Flowcode | greenhouse | [https://boards.greenhouse.io/flowcode](https://boards.greenhouse.io/flowcode) |
@@ -7489,8 +7489,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Rhb Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200715152D](https://www.mycareersfuture.gov.sg/search?uen=200715152D) |
 | Rheinmetall Electronics Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201427420M](https://www.mycareersfuture.gov.sg/search?uen=201427420M) |
 | Rheinmetall Naval Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199407903R](https://www.mycareersfuture.gov.sg/search?uen=199407903R) |
-| [Rhino.fi](https://rhino.fi) | teamtailor | [https://rhino.teamtailor.com/jobs](https://rhino.teamtailor.com/jobs) |
 | [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
+| [Rhino.fi](https://rhino.fi) | teamtailor | [https://rhino.teamtailor.com/jobs](https://rhino.teamtailor.com/jobs) |
 | Rhm Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201128887H](https://www.mycareersfuture.gov.sg/search?uen=201128887H) |
 | [Rho X](https://x.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | Rhombus Power | greenhouse | [https://boards.greenhouse.io/rhombuspower](https://boards.greenhouse.io/rhombuspower) |
@@ -8391,7 +8391,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Sonova Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200802000Z](https://www.mycareersfuture.gov.sg/search?uen=200802000Z) |
 | [Sony](https://www.sonyjobs.com) | workday | [https://sonyglobal:1:SonyGlobalCareers:all.myworkdayjobs.com](https://sonyglobal:1:SonyGlobalCareers:all.myworkdayjobs.com) |
 | Soochow Singapore Capital Markets (Asia) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201726618K](https://www.mycareersfuture.gov.sg/search?uen=201726618K) |
-| [SOON](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
+| [Soon](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
 | Soon Beng Huat Metal & Hardware Trading Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201512116E](https://www.mycareersfuture.gov.sg/search?uen=201512116E) |
 | Soon Heng Glass Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199004969N](https://www.mycareersfuture.gov.sg/search?uen=199004969N) |
 | Soon Poh Telecommunications Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198601557H](https://www.mycareersfuture.gov.sg/search?uen=198601557H) |
