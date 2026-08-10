@@ -4,7 +4,7 @@ A curated list of companies and their job boards, automatically updated daily.
 
 **Last updated:** 2026-08-10
 
-**Total companies:** 10346
+**Total companies:** 10347
 
 ## Protocols
 
@@ -3308,8 +3308,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Floor Melody Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201904709C](https://www.mycareersfuture.gov.sg/search?uen=201904709C) |
 | FloQast | lever | [https://jobs.lever.co/floqast](https://jobs.lever.co/floqast) |
 | Flourish | greenhouse | [https://boards.greenhouse.io/flourish](https://boards.greenhouse.io/flourish) |
-| [Flow](https://flow.life/) | lever | [https://jobs.lever.co/flowlife](https://jobs.lever.co/flowlife) |
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
+| [Flow](https://flow.life/) | lever | [https://jobs.lever.co/flowlife](https://jobs.lever.co/flowlife) |
 | [Flow Blockchain](https://flow.com/) | personio | [personio/flow](personio/flow) |
 | Flow Global Technology Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202551961M](https://www.mycareersfuture.gov.sg/search?uen=202551961M) |
 | Flowcode | greenhouse | [https://boards.greenhouse.io/flowcode](https://boards.greenhouse.io/flowcode) |
@@ -9080,6 +9080,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Terra | lever | [https://jobs.lever.co/terrahq](https://jobs.lever.co/terrahq) |
 | Terra Systems Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200304779D](https://www.mycareersfuture.gov.sg/search?uen=200304779D) |
 | Terranex Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202405180C](https://www.mycareersfuture.gov.sg/search?uen=202405180C) |
+| [Terraswap](https://terraswap.io) | ashby | [https://jobs.ashbyhq.com/terra](https://jobs.ashbyhq.com/terra) |
 | Terratech Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201329942C](https://www.mycareersfuture.gov.sg/search?uen=201329942C) |
 | Tes B Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202037166N](https://www.mycareersfuture.gov.sg/search?uen=202037166N) |
 | Tes-Amm (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200508881R](https://www.mycareersfuture.gov.sg/search?uen=200508881R) |
