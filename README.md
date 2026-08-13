@@ -2,9 +2,9 @@
 
 A curated list of companies and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 
-**Total companies:** 10348
+**Total companies:** 10351
 
 ## Protocols
 
@@ -433,8 +433,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Albatec Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199905249R](https://www.mycareersfuture.gov.sg/search?uen=199905249R) |
 | Albedo | greenhouse | [https://boards.greenhouse.io/albedo](https://boards.greenhouse.io/albedo) |
 | Alc Technologies Sg Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202433385G](https://www.mycareersfuture.gov.sg/search?uen=202433385G) |
-| Alchemy | greenhouse | [https://boards.greenhouse.io/alchemy](https://boards.greenhouse.io/alchemy) |
 | [Alchemy](https://alchemyhealth.com/) | ashby | [https://jobs.ashbyhq.com/alchemy](https://jobs.ashbyhq.com/alchemy) |
+| Alchemy | greenhouse | [https://boards.greenhouse.io/alchemy](https://boards.greenhouse.io/alchemy) |
 | Alco Automation Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199405472H](https://www.mycareersfuture.gov.sg/search?uen=199405472H) |
 | Alco Sunshade Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200910284D](https://www.mycareersfuture.gov.sg/search?uen=200910284D) |
 | Alcon Singapore Manufacturing Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200804835C](https://www.mycareersfuture.gov.sg/search?uen=200804835C) |
@@ -1943,8 +1943,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Ckmbt International Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200000927K](https://www.mycareersfuture.gov.sg/search?uen=200000927K) |
 | Cl Tampines Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201716893H](https://www.mycareersfuture.gov.sg/search?uen=201716893H) |
 | Cla Global Ts Holdings Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199307403Z](https://www.mycareersfuture.gov.sg/search?uen=199307403Z) |
-| [cLabs](https://clabs.co/) | bamboohr | [https://c.bamboohr.com/careers](https://c.bamboohr.com/careers) |
 | cLabs | greenhouse | [https://boards.greenhouse.io/cio](https://boards.greenhouse.io/cio) |
+| [cLabs](https://clabs.co/) | bamboohr | [https://c.bamboohr.com/careers](https://c.bamboohr.com/careers) |
 | Cladtek Holdings Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201006703R](https://www.mycareersfuture.gov.sg/search?uen=201006703R) |
 | Clari | lever | [https://jobs.lever.co/clari](https://jobs.lever.co/clari) |
 | Clarist Resources Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200611056D](https://www.mycareersfuture.gov.sg/search?uen=200611056D) |
@@ -2406,8 +2406,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Db & B Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199608199D](https://www.mycareersfuture.gov.sg/search?uen=199608199D) |
 | Db Golf Training & Performance Center Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202037520R](https://www.mycareersfuture.gov.sg/search?uen=202037520R) |
 | DBS Bank Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196800306E](https://www.mycareersfuture.gov.sg/search?uen=196800306E) |
-| Dbt Labs | greenhouse | [https://boards.greenhouse.io/dbtlabsinc](https://boards.greenhouse.io/dbtlabsinc) |
 | [dbt Labs](https://getdbt.com/) | teamtailor | [https://dbt.teamtailor.com/jobs](https://dbt.teamtailor.com/jobs) |
+| Dbt Labs | greenhouse | [https://boards.greenhouse.io/dbtlabsinc](https://boards.greenhouse.io/dbtlabsinc) |
 | Dc Byte Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202119270R](https://www.mycareersfuture.gov.sg/search?uen=202119270R) |
 | Dc Digital Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202223820D](https://www.mycareersfuture.gov.sg/search?uen=202223820D) |
 | Dch Auriga Singapore | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=52833730X](https://www.mycareersfuture.gov.sg/search?uen=52833730X) |
@@ -5278,6 +5278,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Liannex Ecotech Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202128079G](https://www.mycareersfuture.gov.sg/search?uen=202128079G) |
 | Liao Ning Construction Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200104170K](https://www.mycareersfuture.gov.sg/search?uen=200104170K) |
 | Libeara (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202302950G](https://www.mycareersfuture.gov.sg/search?uen=202302950G) |
+| [Libre Swap](https://dashboard.libre.org/swap) | bamboohr | [https://libre.bamboohr.com/careers](https://libre.bamboohr.com/careers) |
 | Lico Resources Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201322494Z](https://www.mycareersfuture.gov.sg/search?uen=201322494Z) |
 | [Lido Impact Staking](https://impactstake.com) | bamboohr | [https://lido.bamboohr.com/careers](https://lido.bamboohr.com/careers) |
 | Lido Reflexology | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53512291L](https://www.mycareersfuture.gov.sg/search?uen=53512291L) |
@@ -5834,8 +5835,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | [Micron](https://www.micron.com) | eightfold | [eightfold/micron:micron.com:careers.micron.com](eightfold/micron:micron.com:careers.micron.com) |
 | Micron Semiconductor Asia Operations Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201815216Z](https://www.mycareersfuture.gov.sg/search?uen=201815216Z) |
 | Micronesia Holdings Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201929740M](https://www.mycareersfuture.gov.sg/search?uen=201929740M) |
-| [Microsoft Corporation](https://jobs.careers.microsoft.com) | custom | [custom/microsoft](custom/microsoft) |
 | Microsoft Corporation | cutshort | [https://cutshort.io/company/microsoft](https://cutshort.io/company/microsoft) |
+| [Microsoft Corporation](https://jobs.careers.microsoft.com) | custom | [custom/microsoft](custom/microsoft) |
 | Microsoft Operations Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199802706M](https://www.mycareersfuture.gov.sg/search?uen=199802706M) |
 | [Middesk](https://middesk.com) | ashby | [https://jobs.ashbyhq.com/middesk](https://jobs.ashbyhq.com/middesk) |
 | Midea Electric Trading (Singapore) Co. Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200800970G](https://www.mycareersfuture.gov.sg/search?uen=200800970G) |
@@ -7496,8 +7497,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Rhb Construction Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200715152D](https://www.mycareersfuture.gov.sg/search?uen=200715152D) |
 | Rheinmetall Electronics Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201427420M](https://www.mycareersfuture.gov.sg/search?uen=201427420M) |
 | Rheinmetall Naval Asia Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199407903R](https://www.mycareersfuture.gov.sg/search?uen=199407903R) |
-| [Rhino.fi](https://rhino.fi) | teamtailor | [https://rhino.teamtailor.com/jobs](https://rhino.teamtailor.com/jobs) |
 | [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
+| [Rhino.fi](https://rhino.fi) | teamtailor | [https://rhino.teamtailor.com/jobs](https://rhino.teamtailor.com/jobs) |
 | Rhm Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201128887H](https://www.mycareersfuture.gov.sg/search?uen=201128887H) |
 | [Rho X](https://x.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | Rhombus Power | greenhouse | [https://boards.greenhouse.io/rhombuspower](https://boards.greenhouse.io/rhombuspower) |
@@ -7559,6 +7560,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Rnn Conference Centre Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201933523K](https://www.mycareersfuture.gov.sg/search?uen=201933523K) |
 | Ro | lever | [https://jobs.lever.co/ro](https://jobs.lever.co/ro) |
 | Robert Bosch (South East Asia) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=195800026C](https://www.mycareersfuture.gov.sg/search?uen=195800026C) |
+| [Robert Bosch Sp. z o.o.](https://www.bosch.pl/) | recruitee | [https://robert.recruitee.com](https://robert.recruitee.com) |
 | Robert Half International Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200612189E](https://www.mycareersfuture.gov.sg/search?uen=200612189E) |
 | Robert Walters (Singapore) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199706961E](https://www.mycareersfuture.gov.sg/search?uen=199706961E) |
 | Robert Yam & Co Pac | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201833873N](https://www.mycareersfuture.gov.sg/search?uen=201833873N) |
@@ -8590,6 +8592,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Starry Home Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201416585D](https://www.mycareersfuture.gov.sg/search?uen=201416585D) |
 | Starry Recruitment Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202502640W](https://www.mycareersfuture.gov.sg/search?uen=202502640W) |
 | Starsearch | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=53481610W](https://www.mycareersfuture.gov.sg/search?uen=53481610W) |
+| [Starship Technologies](https://starship.xyz) | teamtailor | [https://starship.teamtailor.com/jobs](https://starship.teamtailor.com/jobs) |
 | Startale | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | Startale Group Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202300228C](https://www.mycareersfuture.gov.sg/search?uen=202300228C) |
 | Startin Point Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200403536W](https://www.mycareersfuture.gov.sg/search?uen=200403536W) |
