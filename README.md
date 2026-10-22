@@ -4,7 +4,7 @@ A curated list of companies and their job boards, automatically updated daily.
 
 **Last updated:** 2026-10-22
 
-**Total companies:** 13128
+**Total companies:** 13131
 
 ## Protocols
 
@@ -1526,6 +1526,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Base Camp Digital Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201823033H](https://www.mycareersfuture.gov.sg/search?uen=201823033H) |
 | [Base Power](https://basepowercompany.com/) | ashby | [https://jobs.ashbyhq.com/base-power](https://jobs.ashbyhq.com/base-power) |
 | Basel Medical Group Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202009227G](https://www.mycareersfuture.gov.sg/search?uen=202009227G) |
+| [Baseline Protocol](https://www.baseline.markets/) | bamboohr | [https://baseline.bamboohr.com/careers](https://baseline.bamboohr.com/careers) |
 | Baseten | ashby | [https://jobs.ashbyhq.com/baseten](https://jobs.ashbyhq.com/baseten) |
 | Bashan & Gilead Marine Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200913117C](https://www.mycareersfuture.gov.sg/search?uen=200913117C) |
 | Basil Technologies Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201728583D](https://www.mycareersfuture.gov.sg/search?uen=201728583D) |
@@ -4575,8 +4576,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Getronics Solutions (S) Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=196600289W](https://www.mycareersfuture.gov.sg/search?uen=196600289W) |
 | Geylang East Home For The Aged | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T01SS0110J](https://www.mycareersfuture.gov.sg/search?uen=T01SS0110J) |
 | Gh Engineering Pte Ltd | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199206456R](https://www.mycareersfuture.gov.sg/search?uen=199206456R) |
-| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | [Ghost](https://tryghost.ai/) | ashby | [https://jobs.ashbyhq.com/ghost](https://jobs.ashbyhq.com/ghost) |
+| [Ghost](https://kujira.network/borrow) | greenhouse | [https://boards.greenhouse.io/ghost](https://boards.greenhouse.io/ghost) |
 | Gi Hr Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202630540H](https://www.mycareersfuture.gov.sg/search?uen=202630540H) |
 | Gic Private Limited | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198102265N](https://www.mycareersfuture.gov.sg/search?uen=198102265N) |
 | Gientech Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=199000991Z](https://www.mycareersfuture.gov.sg/search?uen=199000991Z) |
@@ -6907,8 +6908,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Look Capital Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202105063D](https://www.mycareersfuture.gov.sg/search?uen=202105063D) |
 | [Lookout](https://lookout.com/) | greenhouse | [https://boards.greenhouse.io/lookout](https://boards.greenhouse.io/lookout) |
 | Loonglobal Engineering Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201007046N](https://www.mycareersfuture.gov.sg/search?uen=201007046N) |
-| [Loop](https://loopcrypto.xyz/) | ashby | [https://jobs.ashbyhq.com/loopio](https://jobs.ashbyhq.com/loopio) |
 | [Loop](https://www.loopfi.xyz/) | greenhouse | [https://boards.greenhouse.io/loop](https://boards.greenhouse.io/loop) |
+| [Loop](https://loopcrypto.xyz/) | ashby | [https://jobs.ashbyhq.com/loopio](https://jobs.ashbyhq.com/loopio) |
 | [Loopscale](https://loop.sl) | getro | [getro/loopscale](getro/loopscale) |
 | LootSwap | ashby | [https://jobs.ashbyhq.com/loot-labs](https://jobs.ashbyhq.com/loot-labs) |
 | Lorikeet | getro | [getro/lorikeet](getro/lorikeet) |
@@ -7347,6 +7348,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Merkle Science | lever | [https://jobs.lever.co/merklescience](https://jobs.lever.co/merklescience) |
 | Merlin Labs | lever | [https://jobs.lever.co/merlinlabs](https://jobs.lever.co/merlinlabs) |
 | Merlin Md Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200205641R](https://www.mycareersfuture.gov.sg/search?uen=200205641R) |
+| [MerlinSwap](https://merlinswap.org) | personio | [personio/merlin](personio/merlin) |
 | Merries Employment Llp | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T14LL2718K](https://www.mycareersfuture.gov.sg/search?uen=T14LL2718K) |
 | Merrill Lynch (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=198602883D](https://www.mycareersfuture.gov.sg/search?uen=198602883D) |
 | Merrill Lynch Global Services Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=200611164H](https://www.mycareersfuture.gov.sg/search?uen=200611164H) |
@@ -7638,6 +7640,7 @@ A curated list of companies and their job boards, automatically updated daily.
 | Morgan Stanley Management Service (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202126589Z](https://www.mycareersfuture.gov.sg/search?uen=202126589Z) |
 | Morimatsu Lifesciences (Singapore) Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202350074D](https://www.mycareersfuture.gov.sg/search?uen=202350074D) |
 | Morningstar Management Consulting Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201729409H](https://www.mycareersfuture.gov.sg/search?uen=201729409H) |
+| [Morph Bridge](https://bridge.morphl2.io/) | greenhouse | [https://boards.greenhouse.io/morph](https://boards.greenhouse.io/morph) |
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morrow Health Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201943415D](https://www.mycareersfuture.gov.sg/search?uen=201943415D) |
 | Morse | getro | [getro/morse](getro/morse) |
@@ -9432,8 +9435,8 @@ A curated list of companies and their job boards, automatically updated daily.
 | Relativity Global Singapore Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202620995G](https://www.mycareersfuture.gov.sg/search?uen=202620995G) |
 | Relativity Space | greenhouse | [https://boards.greenhouse.io/relativity](https://boards.greenhouse.io/relativity) |
 | Relax One Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=202209798G](https://www.mycareersfuture.gov.sg/search?uen=202209798G) |
-| Relay | getro | [getro/relay-2](getro/relay-2) |
 | Relay | ashby | [https://jobs.ashbyhq.com/relayfi](https://jobs.ashbyhq.com/relayfi) |
+| Relay | getro | [getro/relay-2](getro/relay-2) |
 | Relevance AI | ashby | [https://jobs.ashbyhq.com/relevanceai](https://jobs.ashbyhq.com/relevanceai) |
 | Relevance Lab Pte. Ltd. | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=201115096G](https://www.mycareersfuture.gov.sg/search?uen=201115096G) |
 | Reliance Assurance Llp | mycareersfuture | [https://www.mycareersfuture.gov.sg/search?uen=T11LL1557B](https://www.mycareersfuture.gov.sg/search?uen=T11LL1557B) |
